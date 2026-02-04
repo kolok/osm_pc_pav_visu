@@ -1,0 +1,638 @@
+identifiant_unique,nom,latitude,longitude,adresse,code_postal,ville
+plainecommune_123,Plaine Commune: Point de collecte verre,48.91526676,2.36882601,61 Rue du Landy,93300,Aubervilliers
+plainecommune_124,Plaine Commune: Point de collecte verre,48.91582036,2.37083155,Quai Adrien Agnès,93300,Aubervilliers
+plainecommune_125,Plaine Commune: Point de collecte verre,48.90861016,2.37833862,Rue de la Commune de Paris,93300,Aubervilliers
+plainecommune_126,Plaine Commune: Point de collecte verre,48.9178183,2.3746488,Rue Marcel Carné,93300,Aubervilliers
+plainecommune_127,Plaine Commune: Point de collecte verre,48.91037101,2.3729491400000002,Rue du Pilier,93300,Aubervilliers
+plainecommune_128,Plaine Commune: Point de collecte verre,48.91355835,2.3737925300000002,Boulevard Félix Faure ,93300,Aubervilliers
+plainecommune_129,Plaine Commune: Point de collecte verre,48.90633049,2.37520331,103 Avenue Victor Hugo,93300,Aubervilliers
+plainecommune_130,Plaine Commune: Point de collecte verre,48.91199856,2.3772455900000002,Rue Villebois Mareuil,93300,Aubervilliers
+plainecommune_131,Plaine Commune: Point de collecte verre,48.91793844,2.37764128,84 Rue Heurtault,93300,Aubervilliers
+plainecommune_132,Plaine Commune: Point de collecte verre,48.91941981,2.37913907,93 Rue Heurtault,93300,Aubervilliers
+plainecommune_133,Plaine Commune: Point de collecte verre,48.91096437,2.38047931,51 Rue de la Commune de Paris,93300,Aubervilliers
+plainecommune_134,Plaine Commune: Point de collecte verre,48.9187726,2.3726149,"12, Rue Marcel Carné",93300,Aubervilliers
+plainecommune_135,Plaine Commune: Point de collecte verre,48.91072231,2.38249488,Rue Firmin Gémier,93300,Aubervilliers
+plainecommune_136,Plaine Commune: Point de collecte verre,48.9192691,2.3846828,48 Rue du Crévecoeur ,93300,Aubervilliers
+plainecommune_137,Plaine Commune: Point de collecte verre,48.91774667,2.38479831,Impasse du Pressin,93300,Aubervilliers
+plainecommune_138,Plaine Commune: Point de collecte verre,48.91883211,2.38726547,Rue du Commandant l'Herminier,93300,Aubervilliers
+plainecommune_139,Plaine Commune: Point de collecte verre,48.9089831,2.3867021,68 Avenue de la République,93300,Aubervilliers
+plainecommune_140,Plaine Commune: Point de collecte verre,48.91803174,2.40748497,Boulevard Edouard Vaillant,93300,Aubervilliers
+plainecommune_141,Plaine Commune: Point de collecte verre,48.9130848,2.38853586,162 Rue des Cités,93300,Aubervilliers
+plainecommune_142,Plaine Commune: Point de collecte verre,48.90455567,2.39125237,"105, Avenue de la République",93300,Aubervilliers
+plainecommune_143,Plaine Commune: Point de collecte verre,48.92005209,2.39061628,Rue Adrien Huzard,93300,Aubervilliers
+plainecommune_144,Plaine Commune: Point de collecte verre,48.9144076,2.3915078,Rue Léopold Réchossière,93300,Aubervilliers
+plainecommune_145,Plaine Commune: Point de collecte verre,48.91312991,2.3914368,2 Avenue du Docteur Michaux,93300,Aubervilliers
+plainecommune_146,Plaine Commune: Point de collecte verre,48.9214836,2.39139946,117 Petit chemin du Pont Blanc,93300,Aubervilliers
+plainecommune_147,Plaine Commune: Point de collecte verre,48.92016379,2.3940292,Rue Charles Tillon,93300,Aubervilliers
+plainecommune_148,Plaine Commune: Point de collecte verre,48.90774376,2.39632431,131 Avenue Jean Jaurès,93300,Aubervilliers
+plainecommune_149,Plaine Commune: Point de collecte verre,48.91379121,2.39761675,Rue de la Maladrerie,93300,Aubervilliers
+plainecommune_150,Plaine Commune: Point de collecte verre,48.914831649999996,2.39585903,Rue Jules Guesde,93300,Aubervilliers
+plainecommune_151,Plaine Commune: Point de collecte verre,48.91806697,2.39344076,Boulevard Edouard Vaillant ,93300,Aubervilliers
+plainecommune_152,Plaine Commune: Point de collecte verre,48.91552838,2.40027829,3 Impasse Mazier,93300,Aubervilliers
+plainecommune_153,Plaine Commune: Point de collecte verre,48.91486786,2.39938945,"27-31, Rue Lopez et Jules Martin",93300,Aubervilliers
+plainecommune_154,Plaine Commune: Point de collecte verre,48.91221538,2.39821111,"1-3, Rue Henri Manigart",93300,Aubervilliers
+plainecommune_155,Plaine Commune: Point de collecte verre,48.9106608,2.39699198,Allée des Myosotis,93300,Aubervilliers
+plainecommune_156,Plaine Commune: Point de collecte verre,48.91051518,2.39934688,avenue Jean Jaurès ,93300,Aubervilliers
+plainecommune_157,Plaine Commune: Point de collecte verre,48.9151866,2.4012178,154 Rue Danielle casanova ,93300,Aubervilliers
+plainecommune_158,Plaine Commune: Point de collecte verre,48.91495485,2.40340964,Rue Danielle Casanova,93300,Aubervilliers
+plainecommune_159,Plaine Commune: Point de collecte verre,48.91811188,2.40526327,126 Boulevard Edouard Vaillant,93300,Aubervilliers
+plainecommune_160,Plaine Commune: Point de collecte verre,48.91833917,2.40120235,109 Boulevard Edouard Vaillant ,93300,Aubervilliers
+plainecommune_161,Plaine Commune: Point de collecte verre,48.90523848,2.39359098,81 Avenue Jean Jaurès,93300,Aubervilliers
+plainecommune_162,Plaine Commune: Point de collecte verre,48.9149928,2.38132462,"1, Boulevard Anatole France",93300,Aubervilliers
+plainecommune_163,Plaine Commune: Point de collecte verre,48.9209177,2.3738639,Rue des Bergeries,93300,Aubervilliers
+plainecommune_164,Plaine Commune: Point de collecte verre,48.9168682,2.3969813,Rue Danielle Casanova,93300,Aubervilliers
+plainecommune_165,Plaine Commune: Point de collecte verre,48.92140195,2.40151915,48-56 Rue Alfred Jarry ,93300,Aubervilliers
+plainecommune_166,Plaine Commune: Point de collecte verre,48.91660023,2.40183303,3-7 Allée Pierre Prual,93300,Aubervilliers
+plainecommune_167,Plaine Commune: Point de collecte verre,48.90613,2.38068,Boulevard Félix Faure,93300,Aubervilliers
+plainecommune_168,Plaine Commune: Point de collecte verre,48.9179605,2.3792953,"48, Avenue du Président Roosevelt",93300,Aubervilliers
+plainecommune_169,Plaine Commune: Point de collecte verre,48.91545363,2.40386705,4-9 Allée Charles Grosperrin,93300,Aubervilliers
+plainecommune_170,Plaine Commune: Point de collecte verre,48.90352798,2.38539862,Rue Bordier,93300,Aubervilliers
+plainecommune_171,Plaine Commune: Point de collecte verre,48.90362357,2.3720851,Rue de la Haie coq,93300,Aubervilliers
+plainecommune_172,Plaine Commune: Point de collecte verre,48.91184117,2.38584559,Rue du Clos Besnard,93300,Aubervilliers
+plainecommune_173,Plaine Commune: Point de collecte verre,48.91362635,2.40270738,209 Avenue Jean Jaurès,93300,Aubervilliers
+plainecommune_174,Plaine Commune: Point de collecte verre,48.91933795,2.38143973,2-4 Rue Mouloud Aounit,93300,Aubervilliers
+plainecommune_175,Plaine Commune: Point de collecte verre,48.9024276,2.38865974,4 Rue Ernest Prévost,93300,Aubervilliers
+plainecommune_176,Plaine Commune: Point de collecte verre,48.91653366,2.39293339,46 Rue Charles Tillon,93300,Aubervilliers
+plainecommune_177,Plaine Commune: Point de collecte verre,48.91129708,2.40426587,174 avenue Jean Jaurès,93300,Aubervilliers
+plainecommune_178,Plaine Commune: Point de collecte verre,48.92123757,2.37469119,rue des Bergères au Quai de transfert,93300,Aubervilliers
+plainecommune_179,Plaine Commune: Point de collecte verre,48.91309818,2.3885435,162  rue des Cités ,93300,Aubervilliers
+plainecommune_180,Plaine Commune: Point de collecte verre,48.9036023,2.3863049999999997,20 Rue Bordier,93300,Aubervilliers
+plainecommune_181,Plaine Commune: Point de collecte verre,48.90966174,2.38487021,124 rue André Karman  Entrée du stade André Karman   ,93300,Aubervilliers
+plainecommune_182,Plaine Commune: Point de collecte verre,48.90903192,2.39153715,39 rue des Presles,93300,Aubervilliers
+plainecommune_183,Plaine Commune: Point de collecte verre,48.91503614,2.3862737,rue du commandant L’Herminier / rue Leopold Réchossière,93300,Aubervilliers
+plainecommune_184,Plaine Commune: Point de collecte verre,48.90631493,2.38955793,"166, Avenue de la République",93300,Aubervilliers
+plainecommune_185,Plaine Commune: Point de collecte verre,48.91934819,2.38148727,7 Rue Mouloud Aounit,93300,Aubervilliers
+plainecommune_186,Plaine Commune: Point de collecte verre,48.91308407,2.39121933,1 Allée du Château,93300,Aubervilliers
+plainecommune_187,Plaine Commune: Point de collecte verre,48.9229893,2.3696947,Angle Avenue de Pressensé/ rue St Denis,93300,Aubervilliers
+plainecommune_188,Plaine Commune: Point de collecte verre,48.9126216,2.3813152,31/33 rue de la Commune de Paris centre administratif,93300,Aubervilliers
+plainecommune_189,Plaine Commune: Point de collecte verre,48.91232359,2.38343657,square Stalingrad angle république et Bernard et Mazoyer,93300,Aubervilliers
+plainecommune_190,Plaine Commune: Point de collecte verre,48.90920449,2.37735467,9 Boulevard Félix Faure,93300,Aubervilliers
+plainecommune_191,Plaine Commune: Point de collecte verre,48.91965349,2.3780409000000002,84 avenue du président Roosevelt,93300,Aubervilliers
+plainecommune_192,Plaine Commune: Point de collecte verre,48.92006094,2.39057778,rue Adrien Huzard face à l'école Robespierre,93300,Aubervilliers
+plainecommune_193,Plaine Commune: Point de collecte verre,48.90331088,2.38367969,46 boulevard Felix Faure/ angle rue André Karman,93300,Aubervilliers
+plainecommune_194,Plaine Commune: Point de collecte verre,48.92100338,2.37482518,22 Rue des Bergeries,93300,Aubervilliers
+plainecommune_195,Plaine Commune: Point de collecte verre,48.90541788,2.38708234,28 rue des Ecoles/rue des Cités,93300,Aubervilliers
+plainecommune_196,Plaine Commune: Point de collecte verre,48.916188999999996,2.3745792,Rue du Port,93300,Aubervilliers
+plainecommune_197,Plaine Commune: Point de collecte verre,48.914967999999995,2.3755435,Mail Franchon ,93300,Aubervilliers
+plainecommune_198,Plaine Commune: Point de collecte verre,48.91873984,2.38998449,38 Rue Danielle Casanova,93300,Aubervilliers
+plainecommune_199,Plaine Commune: Point de collecte verre,48.9176552,2.39044562,42 Rue Danielle Casanova,93300,Aubervilliers
+plainecommune_200,Plaine Commune: Point de collecte verre,48.9172816,2.39041183,"15, Passage de la Frette",93300,Aubervilliers
+plainecommune_201,Plaine Commune: Point de collecte verre,48.9172845,2.38994432,8 Passage de la Frette,93300,Aubervilliers
+plainecommune_202,Plaine Commune: Point de collecte verre,48.90202784,2.38851627,Rue Henri Barbusse,93300,Aubervilliers
+plainecommune_203,Plaine Commune: Point de collecte verre,48.9043231,2.3767502,Rue Alain Raillard,93300,Aubervilliers
+plainecommune_204,Plaine Commune: Point de collecte verre,48.90623909,2.3758173,Rue des 21 Appelés,93300,Aubervilliers
+plainecommune_205,Plaine Commune: Point de collecte verre,48.92120032,2.40151395,2-16 Allée Alphonse Jouis,93300,Aubervilliers
+plainecommune_206,Plaine Commune: Point de collecte verre,48.91644241,2.39063662,10 Rue Hémet,93300,Aubervilliers
+plainecommune_207,Plaine Commune: Point de collecte verre,48.91842,2.39629,33 Avenue Marcel Gargam,93300,Aubervilliers
+plainecommune_208,Plaine Commune: Point de collecte verre,48.919166999999995,2.3968961,1 Avenue Marcel Gargam,93300,Aubervilliers
+plainecommune_209,Plaine Commune: Point de collecte verre,48.90490437,2.38360195,84 Boulevard Félix Faure,93300,Aubervilliers
+plainecommune_210,Plaine Commune: Point de collecte verre,48.90877289,2.38570387,126 Rue André Karman,93300,Aubervilliers
+plainecommune_211,Plaine Commune: Point de collecte verre,48.9204313,2.39613365,Rue Hélène Cochennec,93300,Aubervilliers
+plainecommune_212,Plaine Commune: Point de collecte verre,48.91508927,2.3872498,Rue Léopold Réchossière (n°1/3/5/7 tour 1),93300,Aubervilliers
+plainecommune_213,Plaine Commune: Point de collecte verre,48.92175412,2.39556075,7 Rue Alfred Jarry,93300,Aubervilliers
+plainecommune_214,Plaine Commune: Point de collecte verre,48.907205999999995,2.367045,"28, Rue Waldeck Rochet",93300,Aubervilliers
+plainecommune_215,Plaine Commune: Point de collecte verre,48.91571805,2.38740906,Rue Léopold Réchossière (n°1/3/5/7 tour 3),93300,Aubervilliers
+plainecommune_216,Plaine Commune: Point de collecte verre,48.91547084,2.40379961,"4-9, Allée Charles Grosperrin",93300,Aubervilliers
+plainecommune_238,Plaine Commune: Point de collecte verre,48.94710719,2.33639649,"11, Rue de l'Yser",93800,Épinay-sur-Seine
+plainecommune_239,Plaine Commune: Point de collecte verre,48.95375276,2.33032596,"3, Rue François Couperin le Grand",93800,Épinay-sur-Seine
+plainecommune_240,Plaine Commune: Point de collecte verre,48.95325181,2.33219972,51 rue de l'Avenir,93800,Épinay-sur-Seine
+plainecommune_241,Plaine Commune: Point de collecte verre,48.95335169,2.33071772,4 rue Hector Berlioz,93800,Épinay-sur-Seine
+plainecommune_242,Plaine Commune: Point de collecte verre,48.9495448,2.38024077,30 Rue Alphonse de Lamartine,93240,Stains
+plainecommune_269,Plaine Commune: Point de collecte verre,48.93256277,2.33875959,Rue de l' Ortebout (cité Allende),93450,L'Île-Saint-Denis
+plainecommune_270,Plaine Commune: Point de collecte verre,48.93370865,2.33895781,Rue Louis Bouxin,93450,L'Île-Saint-Denis
+plainecommune_271,Plaine Commune: Point de collecte verre,48.93840647,2.3398849,Rue René et Isa Lefèvre,93450,L'Île-Saint-Denis
+plainecommune_272,Plaine Commune: Point de collecte verre,48.93949101,2.33790869,Rue Arnold Géraux (angle rue I.F Juliot Curie),93450,L'Île-Saint-Denis
+plainecommune_273,Plaine Commune: Point de collecte verre,48.94062277,2.33699328,Rue Arnold Géraux  (école P.Langevin),93450,L'Île-Saint-Denis
+plainecommune_274,Plaine Commune: Point de collecte verre,48.94339338,2.33615512,Quai de la Marine (face au Cimetière),93450,L'Île-Saint-Denis
+plainecommune_275,Plaine Commune: Point de collecte verre,48.94147862,2.33622654,Rue Berthelot (cité Thorez),93450,L'Île-Saint-Denis
+plainecommune_276,Plaine Commune: Point de collecte verre,48.93647046,2.33809024,Avenue Jean Jaurès (N° 52),93450,L'Île-Saint-Denis
+plainecommune_277,Plaine Commune: Point de collecte verre,48.93388646,2.33852267,Avenue Jean Jaurès (N° 11 bis),93450,L'Île-Saint-Denis
+plainecommune_278,Plaine Commune: Point de collecte verre,48.92012,2.3292680900000002,Quai du Châtelier (en face de la tour du 16 Cachin),93450,L'Île-Saint-Denis
+plainecommune_279,Plaine Commune: Point de collecte verre,48.91978573,2.3282338,"9, Rue Marcel Cachin",93450,L'Île-Saint-Denis
+plainecommune_280,Plaine Commune: Point de collecte verre,48.91870644,2.32368963,"15, Boulevard Marcel Paul",93450,L'Île-Saint-Denis
+plainecommune_281,Plaine Commune: Point de collecte verre,48.9369216,2.33884881,Place de la Libération,93450,L'Île-Saint-Denis
+plainecommune_282,Plaine Commune: Point de collecte verre,48.93524795,2.33926682,Rue du Bocage (face au N° 31),93450,L'Île-Saint-Denis
+plainecommune_283,Plaine Commune: Point de collecte verre,48.91959887,2.32603104,3 Boulevard Marcel Paul,93450,L'Île-Saint-Denis
+plainecommune_284,Plaine Commune: Point de collecte verre,48.91920583,2.32665337,3 Boulevard Marcel Paul,93450,L'Île-Saint-Denis
+plainecommune_286,Plaine Commune: Point de collecte verre,48.92449893,2.33237004,allée du Printemps,93450,L'Île-Saint-Denis
+plainecommune_374,Plaine Commune: Point de collecte verre,48.9332666,2.3958522,89 avenue henri barbusse,93120,La Courneuve
+plainecommune_375,Plaine Commune: Point de collecte verre,48.93150501,2.3937678,19 Rue de l'Abreuvoir,93120,La Courneuve
+plainecommune_376,Plaine Commune: Point de collecte verre,48.93213681,2.39136854,1 Place Paul Verlaine,93120,La Courneuve
+plainecommune_377,Plaine Commune: Point de collecte verre,48.93374524,2.40109727,19 Avenue Waldeck Rochet,93120,La Courneuve
+plainecommune_378,Plaine Commune: Point de collecte verre,48.92131103,2.40922091,126 Avenue Jean Jaurès,93120,La Courneuve
+plainecommune_379,Plaine Commune: Point de collecte verre,48.92507969,2.41121312,143 Rue Rateau,93120,La Courneuve
+plainecommune_380,Plaine Commune: Point de collecte verre,48.92483824,2.41518351,"130, Avenue Paul Vaillant Couturier",93120,La Courneuve
+plainecommune_381,Plaine Commune: Point de collecte verre,48.92698641,2.37918349,Rue du 17 Octobre 1961,93120,La Courneuve
+plainecommune_382,Plaine Commune: Point de collecte verre,48.9316989,2.3932979999999997,56 Avenue Henri Barbusse,93120,La Courneuve
+plainecommune_383,Plaine Commune: Point de collecte verre,48.92570747,2.38451743,Boulevard Pasteur (à côté du château d’eau).,93120,La Courneuve
+plainecommune_384,Plaine Commune: Point de collecte verre,48.92922963,2.3954063,Angle rue Edgard Quinet et rue Chabrol.,93120,La Courneuve
+plainecommune_385,Plaine Commune: Point de collecte verre,48.93130622,2.37889373,"3, Rue Maurice Ravel",93120,La Courneuve
+plainecommune_386,Plaine Commune: Point de collecte verre,48.92706875,2.3793784000000002,1 Rue du 17 Octobre 1961,93120,La Courneuve
+plainecommune_387,Plaine Commune: Point de collecte verre,48.92806754,2.38899161,"79, Rue du Général Schramm",93120,La Courneuve
+plainecommune_388,Plaine Commune: Point de collecte verre,48.92819924,2.3842928,10 Rue de l'Union,93120,La Courneuve
+plainecommune_389,Plaine Commune: Point de collecte verre,48.922802,2.4009359999999997,104 Rue Anatole France,93120,La Courneuve
+plainecommune_390,Plaine Commune: Point de collecte verre,48.9249514,2.4007076,"11 avenue Jean Jaurès,  N186",93120,La Courneuve
+plainecommune_391,Plaine Commune: Point de collecte verre,48.92888243,2.3948891,11 rue Edgar Quinet,93120,La Courneuve
+plainecommune_392,Plaine Commune: Point de collecte verre,48.9185513,2.4080386000000003,5 Avenue Paul Vaillant Couturier,93120,La Courneuve
+plainecommune_393,Plaine Commune: Point de collecte verre,48.92247476,2.38159285,14 Rue de Valmy,93120,La Courneuve
+plainecommune_394,Plaine Commune: Point de collecte verre,48.926027999999995,2.3821499999999998,16 Rue Saint-Just,93120,La Courneuve
+plainecommune_395,Plaine Commune: Point de collecte verre,48.92163513,2.38112981,18 Rue des Francs Tireurs,93120,La Courneuve
+plainecommune_396,Plaine Commune: Point de collecte verre,48.92308663,2.38405296,18 Rue Suzanne Masson,93120,La Courneuve
+plainecommune_397,Plaine Commune: Point de collecte verre,48.9272887,2.37742335,19 Rue du 17 Octobre 1961,93120,La Courneuve
+plainecommune_398,Plaine Commune: Point de collecte verre,48.9288435,2.38769906,2 rue de la Convention,93120,La Courneuve
+plainecommune_399,Plaine Commune: Point de collecte verre,48.92146406,2.41383572,2 Rue Lavoisier,93120,La Courneuve
+plainecommune_400,Plaine Commune: Point de collecte verre,48.92148418,2.40992884,2 Rue Maurice Bureau,93120,La Courneuve
+plainecommune_401,Plaine Commune: Point de collecte verre,48.9196591,2.4127396,20 Av. Lénine,93120,La Courneuve
+plainecommune_402,Plaine Commune: Point de collecte verre,48.9312427,2.38650656,20 Av. Roger Salengro,93120,La Courneuve
+plainecommune_403,Plaine Commune: Point de collecte verre,48.9186899,2.4104731,18 Rue de Bobigny,93120,La Courneuve
+plainecommune_404,Plaine Commune: Point de collecte verre,48.9290876,2.4193599,209 Av. Paul Vaillant Couturier,93120,La Courneuve
+plainecommune_405,Plaine Commune: Point de collecte verre,48.9274167,2.3767342,Rue renoir,93120,La Courneuve
+plainecommune_406,Plaine Commune: Point de collecte verre,48.92718684,2.40114206,23 Rue de la Prévoté,93120,La Courneuve
+plainecommune_407,Plaine Commune: Point de collecte verre,48.92585837,2.38965754,26 Avenue de la République,93120,La Courneuve
+plainecommune_408,Plaine Commune: Point de collecte verre,48.9228965,2.3954254,9 Passage du Jura,93120,La Courneuve
+plainecommune_409,Plaine Commune: Point de collecte verre,48.9283698,2.3965507,avenue Marcel Cachin,93120,La Courneuve
+plainecommune_410,Plaine Commune: Point de collecte verre,48.927194,2.388341,29 Av. Gabriel Péri,93120,La Courneuve
+plainecommune_411,Plaine Commune: Point de collecte verre,48.93110641,2.38935368,"30 avenue Henri Barbusse, route D30",93120,La Courneuve
+plainecommune_412,Plaine Commune: Point de collecte verre,48.9242963,2.4102743,33 Rue Lepilleur,93120,La Courneuve
+plainecommune_413,Plaine Commune: Point de collecte verre,48.92028486,2.40701584,27 Rue Anatole France,93120,La Courneuve
+plainecommune_414,Plaine Commune: Point de collecte verre,48.93242026,2.38680227,36 Av. Roger Salengro,93120,La Courneuve
+plainecommune_415,Plaine Commune: Point de collecte verre,48.92155512,2.38459765,36 Rue Jollois,93120,La Courneuve
+plainecommune_416,Plaine Commune: Point de collecte verre,48.923376999999995,2.3858729999999997,38 Rue Suzanne Masson,93120,La Courneuve
+plainecommune_417,Plaine Commune: Point de collecte verre,48.93057295,2.40248127,41 Rue Georges Politzer,93120,La Courneuve
+plainecommune_418,Plaine Commune: Point de collecte verre,48.9288061,2.3805217499999998,48 rue Paul Langevin,93120,La Courneuve
+plainecommune_419,Plaine Commune: Point de collecte verre,48.93296598,2.41280056,5 rue Nungesser,93120,La Courneuve
+plainecommune_420,Plaine Commune: Point de collecte verre,48.92427681,2.38346474,5 Rue Parmentier,93120,La Courneuve
+plainecommune_421,Plaine Commune: Point de collecte verre,48.92103126,2.38285361,12 Rue Pierre Curie,93120,La Courneuve
+plainecommune_422,Plaine Commune: Point de collecte verre,48.92655491,2.3904858300000003,52 Av. Gabriel Péri,93120,La Courneuve
+plainecommune_423,Plaine Commune: Point de collecte verre,48.922965,2.3881479999999997,55 Rue Emile Zola,93120,La Courneuve
+plainecommune_424,Plaine Commune: Point de collecte verre,48.92769094,2.39106126,60 rue de la Convention,93120,La Courneuve
+plainecommune_425,Plaine Commune: Point de collecte verre,48.93237141,2.40418062,65 Av. Jean Mermoz,93120,La Courneuve
+plainecommune_426,Plaine Commune: Point de collecte verre,48.92136487,2.40440629,54 Rue Anatole France,93120,La Courneuve
+plainecommune_427,Plaine Commune: Point de collecte verre,48.928518999999994,2.390991,76 Av. de la République,93120,La Courneuve
+plainecommune_428,Plaine Commune: Point de collecte verre,48.932724,2.394236,77 Rue Paul Verlaine,93120,La Courneuve
+plainecommune_429,Plaine Commune: Point de collecte verre,48.92315246,2.40552802,78 Avenue Jean Jaurès,93120,La Courneuve
+plainecommune_430,Plaine Commune: Point de collecte verre,48.92671938,2.38482736,91 Bd Pasteur,93120,La Courneuve
+plainecommune_431,Plaine Commune: Point de collecte verre,48.92967692,2.39173718,93 Avenue de la République,93120,La Courneuve
+plainecommune_432,Plaine Commune: Point de collecte verre,48.92330261,2.4131672,2 rue colbert,93120,La Courneuve
+plainecommune_434,Plaine Commune: Point de collecte verre,48.924994999999996,2.388394,Angle Av. Victor Hugo et Av. de la République ,93120,La Courneuve
+plainecommune_435,Plaine Commune: Point de collecte verre,48.928019,2.385814,Angle Avenue Gabriel Péri et Avenue Michelet,93120,La Courneuve
+plainecommune_436,Plaine Commune: Point de collecte verre,48.92672267,2.3936292200000002,Angle Emile Zola et rue de la Convention,93120,La Courneuve
+plainecommune_437,Plaine Commune: Point de collecte verre,48.930028,2.39642,Angle Rue Edgar Quinet et Av. Marcel Cachin,93120,La Courneuve
+plainecommune_438,Plaine Commune: Point de collecte verre,48.9261759,2.39229564,Croisement Avenue Gabriel Péri/Rue Jules Ferry,93120,La Courneuve
+plainecommune_439,Plaine Commune: Point de collecte verre,48.92349432,2.41377431,106 Avenue Paul Vaillant Couturier,93120,La Courneuve
+plainecommune_440,Plaine Commune: Point de collecte verre,48.92676352,2.3808603,Croisement Rue Saint-Just /Rue Frédéric Jolot-Curie,93120,La Courneuve
+plainecommune_441,Plaine Commune: Point de collecte verre,48.93193548,2.38349518,Rue Guerman Titov,93120,La Courneuve
+plainecommune_442,Plaine Commune: Point de collecte verre,48.93166098,2.39278475,66 Avenue Henri Barbusse,93120,La Courneuve
+plainecommune_443,Plaine Commune: Point de collecte verre,48.93134133,2.39080123,36 Avenue Henri Barbusse,93120,La Courneuve
+plainecommune_444,Plaine Commune: Point de collecte verre,48.93307109,2.38815308,44 Avenue Roger Salengro,93120,La Courneuve
+plainecommune_445,Plaine Commune: Point de collecte verre,48.92982056,2.37811861,"1, Place Alfred de Musset",93120,La Courneuve
+plainecommune_446,Plaine Commune: Point de collecte verre,48.92729466,2.38304513,"2, Allée du Moulin Neuf",93120,La Courneuve
+plainecommune_447,Plaine Commune: Point de collecte verre,48.93314538,2.39151442,8-20 Place Paul Verlaine,93120,La Courneuve
+plainecommune_448,Plaine Commune: Point de collecte verre,48.92671248,2.38187243,30-32 Rue Beaufils,93120,La Courneuve
+plainecommune_449,Plaine Commune: Point de collecte verre,48.93244121,2.39349744,24 Rue Paul Verlaine,93120,La Courneuve
+plainecommune_450,Plaine Commune: Point de collecte verre,48.93248382,2.39785497,105/107/109 avenue Henri Barbusse (résidence La Fontenelle),93120,La Courneuve
+plainecommune_548,Plaine Commune: Point de collecte verre,48.95346084,2.36816755,"Rue d'Amiens (déchèterie, N°102/104 )",93380,Pierrefitte-sur-Seine
+plainecommune_549,Plaine Commune: Point de collecte verre,48.96351026,2.35427952,55 avenue Gabriel Péri ,93380,Pierrefitte-sur-Seine
+plainecommune_550,Plaine Commune: Point de collecte verre,48.9626615,2.36078088,16 place Andreï Sakharov,93380,Pierrefitte-sur-Seine
+plainecommune_551,Plaine Commune: Point de collecte verre,48.96298299,2.36206652,18 RUE GUEROUX,93380,Pierrefitte-sur-Seine
+plainecommune_552,Plaine Commune: Point de collecte verre,48.961507999999995,2.359709,7 AVENUE POTIER,93380,Pierrefitte-sur-Seine
+plainecommune_553,Plaine Commune: Point de collecte verre,48.96075245,2.3635487299999998,FACE AU 78 AVENUE POTIER,93380,Pierrefitte-sur-Seine
+plainecommune_554,Plaine Commune: Point de collecte verre,48.96349224,2.36809958,82 Boulevard Pasteur,93380,Pierrefitte-sur-Seine
+plainecommune_555,Plaine Commune: Point de collecte verre,48.96285054,2.36945464,ANGLE PASTEUR ET LEDRU-ROLLIN,93380,Pierrefitte-sur-Seine
+plainecommune_556,Plaine Commune: Point de collecte verre,48.96061739,2.3732475,27 Chemin des Fourches,93380,Pierrefitte-sur-Seine
+plainecommune_557,Plaine Commune: Point de collecte verre,48.96478537,2.37281127,1b Rue Parmentier,93380,Pierrefitte-sur-Seine
+plainecommune_558,Plaine Commune: Point de collecte verre,48.96525998,2.3556747,43 RUE DE LA BUTTE PINSON,93380,Pierrefitte-sur-Seine
+plainecommune_559,Plaine Commune: Point de collecte verre,48.97117046,2.37046043,"113, Rue Jules Châtenay",93380,Pierrefitte-sur-Seine
+plainecommune_560,Plaine Commune: Point de collecte verre,48.9684074,2.36761095,9 RUE AUDENET,93380,Pierrefitte-sur-Seine
+plainecommune_561,Plaine Commune: Point de collecte verre,48.96747824,2.36522425,12 RUE ALCIDE D’ORBIGNY,93380,Pierrefitte-sur-Seine
+plainecommune_562,Plaine Commune: Point de collecte verre,48.9632065,2.35894591,2 AVENUE GABRIEL PERI,93380,Pierrefitte-sur-Seine
+plainecommune_563,Plaine Commune: Point de collecte verre,48.96827338,2.36249534,4 Avenue du Général Gallieni,93380,Pierrefitte-sur-Seine
+plainecommune_564,Plaine Commune: Point de collecte verre,48.97257222,2.36491462,114 AVENUE DU GENERAL  GALLIENI,93380,Pierrefitte-sur-Seine
+plainecommune_565,Plaine Commune: Point de collecte verre,48.96670113,2.36027712,12 RUE BRIAIS,93380,Pierrefitte-sur-Seine
+plainecommune_566,Plaine Commune: Point de collecte verre,48.96842845,2.35974578,31 Avenue de la République,93380,Pierrefitte-sur-Seine
+plainecommune_567,Plaine Commune: Point de collecte verre,48.96894089,2.37070098,8 RUE DE VERDUN,93380,Pierrefitte-sur-Seine
+plainecommune_568,Plaine Commune: Point de collecte verre,48.9659106,2.3658375,21 Rue Étienne Dolet,93380,Pierrefitte-sur-Seine
+plainecommune_569,Plaine Commune: Point de collecte verre,48.9705053,2.36604534,128 BOULEVARD MERMOZ,93380,Pierrefitte-sur-Seine
+plainecommune_570,Plaine Commune: Point de collecte verre,48.96310903,2.35980526,AVENUE LENINE,93380,Pierrefitte-sur-Seine
+plainecommune_571,Plaine Commune: Point de collecte verre,48.95237951,2.36877803,2 RUE EMILE ZOLA,93380,Pierrefitte-sur-Seine
+plainecommune_572,Plaine Commune: Point de collecte verre,48.94966051,2.36514335,62 RUE EMILE ZOLA,93380,Pierrefitte-sur-Seine
+plainecommune_573,Plaine Commune: Point de collecte verre,48.94968334,2.36043215,41 Rue François Mitterrand,93380,Pierrefitte-sur-Seine
+plainecommune_574,Plaine Commune: Point de collecte verre,48.95170123,2.36225407,48 RUE NUNGESSER ET COLI,93380,Pierrefitte-sur-Seine
+plainecommune_575,Plaine Commune: Point de collecte verre,48.95049826,2.35757349,198 Avenue Élisée Reclus,93380,Pierrefitte-sur-Seine
+plainecommune_576,Plaine Commune: Point de collecte verre,48.95456356,2.36162036,65 RUE PIERRE CURIE,93380,Pierrefitte-sur-Seine
+plainecommune_577,Plaine Commune: Point de collecte verre,48.95584479,2.36703231,60 RUE D’AMIENS,93380,Pierrefitte-sur-Seine
+plainecommune_578,Plaine Commune: Point de collecte verre,48.95702646,2.35866154,100 AVENUE LENINE,93380,Pierrefitte-sur-Seine
+plainecommune_579,Plaine Commune: Point de collecte verre,48.95843454,2.35406024,CHEMIN DES JONCHEROLLES ANGLE RUE DU 8 MAI 1945,93380,Pierrefitte-sur-Seine
+plainecommune_580,Plaine Commune: Point de collecte verre,48.95808483,2.36410676,116/118 RUE MAURICE BOKANOWSKI ,93380,Pierrefitte-sur-Seine
+plainecommune_581,Plaine Commune: Point de collecte verre,48.95178242,2.3580477699999998,173 AVENUE ELISEE RECLUS,93380,Pierrefitte-sur-Seine
+plainecommune_582,Plaine Commune: Point de collecte verre,48.95262324,2.3658212499999998,105 RUE NUNGESSER ET COLI,93380,Pierrefitte-sur-Seine
+plainecommune_583,Plaine Commune: Point de collecte verre,48.97019685,2.3638749999999997,2-22 Résidence Albert Francon,93380,Pierrefitte-sur-Seine
+plainecommune_584,Plaine Commune: Point de collecte verre,48.96449775,2.35715281,Résidence du Clos,93380,Pierrefitte-sur-Seine
+plainecommune_585,Plaine Commune: Point de collecte verre,48.96506916,2.35860283,"6, Allée Jean Vilar",93380,Pierrefitte-sur-Seine
+plainecommune_586,Plaine Commune: Point de collecte verre,48.96588209,2.35936369,Rue Maurice David,93380,Pierrefitte-sur-Seine
+plainecommune_587,Plaine Commune: Point de collecte verre,48.95706762,2.35382897,Cité Joncherolles,93380,Pierrefitte-sur-Seine
+plainecommune_588,Plaine Commune: Point de collecte verre,48.95673747,2.35504181,Cité Joncherolles,93380,Pierrefitte-sur-Seine
+plainecommune_589,Plaine Commune: Point de collecte verre,48.95768187,2.3537554,Cité Joncherolles,93380,Pierrefitte-sur-Seine
+plainecommune_590,Plaine Commune: Point de collecte verre,48.96355881,2.36967162,"1, Allée des Marronniers",93380,Pierrefitte-sur-Seine
+plainecommune_591,Plaine Commune: Point de collecte verre,48.96413777,2.3710349600000002,"3, Rue du Général Moulin",93380,Pierrefitte-sur-Seine
+plainecommune_592,Plaine Commune: Point de collecte verre,48.96409915,2.36999196,7 Rue du Général Moulin,93380,Pierrefitte-sur-Seine
+plainecommune_593,Plaine Commune: Point de collecte verre,48.97280167,2.36956619,"4, Rue Marie-Louise Taos Amrouche",93380,Pierrefitte-sur-Seine
+plainecommune_594,Plaine Commune: Point de collecte verre,48.97146934,2.3692295899999998,3 Rue des Poètes,93380,Pierrefitte-sur-Seine
+plainecommune_595,Plaine Commune: Point de collecte verre,48.97214156,2.3695005399999998,2 Allée Boris Vian,93380,Pierrefitte-sur-Seine
+plainecommune_596,Plaine Commune: Point de collecte verre,48.97274171,2.36990524,Rue Robert Desnos,93380,Pierrefitte-sur-Seine
+plainecommune_597,Plaine Commune: Point de collecte verre,48.97162423,2.3685786699999998,Rue Claude Nougaro,93380,Pierrefitte-sur-Seine
+plainecommune_598,Plaine Commune: Point de collecte verre,48.97153771,2.36943513,3 Rue des Poètes,93380,Pierrefitte-sur-Seine
+plainecommune_599,Plaine Commune: Point de collecte verre,48.97157647,2.3678253,"15, Avenue des Vignes Blanches",93380,Pierrefitte-sur-Seine
+plainecommune_741,Plaine Commune: Point de collecte verre,48.96088876,2.39380344,59 Rue des Huleux,93240,Stains
+plainecommune_742,Plaine Commune: Point de collecte verre,48.94680294,2.38597866,80 avenue maxime Gorki - Parking de Carrefour,93240,Stains
+plainecommune_743,Plaine Commune: Point de collecte verre,48.95050543,2.37514685,Avenue Nelson Mandela,93240,Stains
+plainecommune_744,Plaine Commune: Point de collecte verre,48.95113773,2.37763782,"2, Rue Alphonse de Lamartine",93240,Stains
+plainecommune_745,Plaine Commune: Point de collecte verre,48.94681585,2.3860616,80 avenue maxime Gorki - Parking de Carrefour,93240,Stains
+plainecommune_746,Plaine Commune: Point de collecte verre,48.95050483,2.37882686,"14, Rue Alphonse de Lamartine",93240,Stains
+plainecommune_747,Plaine Commune: Point de collecte verre,48.95630911,2.3819016299999998,9 rue Pierre de Geyter,93240,Stains
+plainecommune_748,Plaine Commune: Point de collecte verre,48.9519824,2.39346696,8 rue du Charme -angle allée des Ecureuils,93240,Stains
+plainecommune_749,Plaine Commune: Point de collecte verre,48.94603806,2.38400355,"16, Rue Salvador Allende",93240,Stains
+plainecommune_750,Plaine Commune: Point de collecte verre,48.97180812,2.37572917,127 rue Parmentier,93240,Stains
+plainecommune_751,Plaine Commune: Point de collecte verre,48.9614319,2.39322451,59 rue des Huleux,93240,Stains
+plainecommune_752,Plaine Commune: Point de collecte verre,48.96708397,2.37380308,28 RUE PARMENTIER,93240,Stains
+plainecommune_753,Plaine Commune: Point de collecte verre,48.95897743,2.38193004,2 RUE DES PAROUZETS,93240,Stains
+plainecommune_754,Plaine Commune: Point de collecte verre,48.95936762,2.39850625,201 AVENUE DE STALINGRAD,93240,Stains
+plainecommune_755,Plaine Commune: Point de collecte verre,48.96988719,2.38378021,107 RUE JEAN JAURES,93240,Stains
+plainecommune_756,Plaine Commune: Point de collecte verre,48.96753929,2.37789657,60 Rue Francis Auffray,93240,Stains
+plainecommune_757,Plaine Commune: Point de collecte verre,48.9629581,2.3772083999999998,EN FACE DU 80 RUE GAMBETTA,93240,Stains
+plainecommune_758,Plaine Commune: Point de collecte verre,48.96094147,2.38166374,7 Avenue Aristide Briand,93240,Stains
+plainecommune_759,Plaine Commune: Point de collecte verre,48.96307488,2.38533114,39 RUE JULES GUESDES,93240,Stains
+plainecommune_760,Plaine Commune: Point de collecte verre,48.96540775,2.39013,108 RUE JULES GUESDES,93240,Stains
+plainecommune_761,Plaine Commune: Point de collecte verre,48.96744064,2.3823997,71 RUE JEAN JAURES,93240,Stains
+plainecommune_762,Plaine Commune: Point de collecte verre,48.9655196,2.38151174,41 RUE JEAN JAURES,93240,Stains
+plainecommune_763,Plaine Commune: Point de collecte verre,48.9653971,2.3774814,36 BIS RUE DES MOISSONS,93240,Stains
+plainecommune_764,Plaine Commune: Point de collecte verre,48.96906682,2.37929356,31 RUE DE FONTENAY,93240,Stains
+plainecommune_765,Plaine Commune: Point de collecte verre,48.96196,2.38312,"Avenue jules guesdes, angle rue des hucailles",93240,Stains
+plainecommune_766,Plaine Commune: Point de collecte verre,48.96365016,2.38686566,57 RUE DU BEL AIR,93240,Stains
+plainecommune_767,Plaine Commune: Point de collecte verre,48.963567,2.38830294,"60, Rue des Huleux",93240,Stains
+plainecommune_768,Plaine Commune: Point de collecte verre,48.9712045,2.37928683,En face du 16 rue de Poissy,93240,Stains
+plainecommune_769,Plaine Commune: Point de collecte verre,48.96273068,2.38008189,7 rue Jean Jaures,93240,Stains
+plainecommune_770,Plaine Commune: Point de collecte verre,48.96879973,2.37440353,85 rue Parmentier,93240,Stains
+plainecommune_771,Plaine Commune: Point de collecte verre,48.957642129999996,2.37475755,"Z.A.C. du Bois Moussay, 38 Avenue du Colonel Rol Tanguy",93240,Stains
+plainecommune_772,Plaine Commune: Point de collecte verre,48.95562043,2.37801364,EN FACE DU 50 RUE JEAN DURAND,93240,Stains
+plainecommune_773,Plaine Commune: Point de collecte verre,48.9580123,2.3820517,EN FACE DU 32 RUE CARNOT,93240,Stains
+plainecommune_774,Plaine Commune: Point de collecte verre,48.95155627,2.38200322,10 PLACE MARCEL POINTET,93240,Stains
+plainecommune_775,Plaine Commune: Point de collecte verre,48.94920897,2.38311009,29 AVENUE DE LA DIVISION LECLERC,93240,Stains
+plainecommune_776,Plaine Commune: Point de collecte verre,48.95469748,2.38257686,4 RUE PAUL VAILLANT COUTURIER,93240,Stains
+plainecommune_777,Plaine Commune: Point de collecte verre,48.95512539,2.38521253,29 RUE LOUIS BORDES,93240,Stains
+plainecommune_778,Plaine Commune: Point de collecte verre,48.95296756,2.38893425,1 AVENUE LOUIS BORDES,93240,Stains
+plainecommune_779,Plaine Commune: Point de collecte verre,48.95032641,2.38651696,1 RUE SABRAN DE PONTEVES,93240,Stains
+plainecommune_780,Plaine Commune: Point de collecte verre,48.95226656,2.38470627,51 RUE MAXIME GORKI,93240,Stains
+plainecommune_781,Plaine Commune: Point de collecte verre,48.9469624,2.3835830700000002,5 Rue Théophile Gautier,93240,Stains
+plainecommune_782,Plaine Commune: Point de collecte verre,48.94771874,2.38686463,157 AVENUE MAXIME GORKI,93240,Stains
+plainecommune_783,Plaine Commune: Point de collecte verre,48.94547871,2.38975425,ANGLE RUE VICTOR RENELLE ET RUE RENÉ LELOIR,93240,Stains
+plainecommune_784,Plaine Commune: Point de collecte verre,48.94875631,2.38874647,21 RUE VICTOR RENELLE,93240,Stains
+plainecommune_785,Plaine Commune: Point de collecte verre,48.94937748,2.39141391,EN FACE DU 31 RUE GASTON MONMOUSSEAU,93240,Stains
+plainecommune_786,Plaine Commune: Point de collecte verre,48.94992426,2.39510196,ANGLE RUE DU MOULIN NEUF ET RUE JACK LONDON,93240,Stains
+plainecommune_787,Plaine Commune: Point de collecte verre,48.95369582,2.39380212,1 Rue de la Vieille Mer,93240,Stains
+plainecommune_788,Plaine Commune: Point de collecte verre,48.9542384,2.3911335,8 Allée du Val du Moulin,93240,Stains
+plainecommune_789,Plaine Commune: Point de collecte verre,48.95317579,2.37940401,29 RUE RAOUL DUCHENE,93240,Stains
+plainecommune_790,Plaine Commune: Point de collecte verre,48.94865258,2.37701976,Sq. Paul Valéry,93240,Stains
+plainecommune_791,Plaine Commune: Point de collecte verre,48.94881325,2.3792381000000002,27 Rue Alfred de Musset,93240,Stains
+plainecommune_792,Plaine Commune: Point de collecte verre,48.95050318,2.39423183,48 Rue du Moulin Neuf,93240,Stains
+plainecommune_793,Plaine Commune: Point de collecte verre,48.95369097,2.38222664,28 avenue Paul Vaillant Couturier,93240,Stains
+plainecommune_794,Plaine Commune: Point de collecte verre,48.95157256,2.37992826,20 Rue Albert Moreau,93240,Stains
+plainecommune_795,Plaine Commune: Point de collecte verre,48.954905600000004,2.37637114,76 Rue Jean Durand,93240,Stains
+plainecommune_796,Plaine Commune: Point de collecte verre,48.95261995,2.39557408,13 rue de la Vieille Mer,93240,Stains
+plainecommune_797,Plaine Commune: Point de collecte verre,48.94485172,2.3790886,94 rue Roger Salengro,93240,Stains
+plainecommune_798,Plaine Commune: Point de collecte verre,48.94808586,2.37501776,4 Rue George Sand,93240,Stains
+plainecommune_799,Plaine Commune: Point de collecte verre,48.94851933,2.37501594,Rue George Sand,93240,Stains
+plainecommune_800,Plaine Commune: Point de collecte verre,48.9528525,2.37497904,Avenue George Sand,93240,Stains
+plainecommune_801,Plaine Commune: Point de collecte verre,48.95403925,2.37588526,35 Rue Paul Verlaine,93240,Stains
+plainecommune_802,Plaine Commune: Point de collecte verre,48.95112419,2.3757373,Avenue Nelson Mandela,93240,Stains
+plainecommune_803,Plaine Commune: Point de collecte verre,48.94897169,2.37352764,Rue Jean Ferrat,93240,Stains
+plainecommune_804,Plaine Commune: Point de collecte verre,48.95040416,2.37352468,Rue Jean Ferrat ( N°21-33),93240,Stains
+plainecommune_805,Plaine Commune: Point de collecte verre,48.95223967,2.37352808,Rue Jean Ferrat,93240,Stains
+plainecommune_806,Plaine Commune: Point de collecte verre,48.95329111,2.37357636,Rue Jean Ferrat,93240,Stains
+plainecommune_807,Plaine Commune: Point de collecte verre,48.95339502,2.37498796,Rue George Sand,93240,Stains
+plainecommune_808,Plaine Commune: Point de collecte verre,48.94752961,2.37425905,"112, Avenue de Stalingrad",93200,Saint-Denis
+plainecommune_809,Plaine Commune: Point de collecte verre,48.94828378,2.38137539,60B Avenue de Stalingrad,93240,Stains
+plainecommune_810,Plaine Commune: Point de collecte verre,48.947842370000004,2.3796560700000002,4 Rue du Globe,93240,Stains
+plainecommune_812,Plaine Commune: Point de collecte verre,48.9522735,2.37512519,"36, Rue Charles Péguy",93240,Stains
+plainecommune_813,Plaine Commune: Point de collecte verre,48.95165197,2.37760951,avenue Nelson Mandela angle rue Paul Verlaine,93240,Stains
+plainecommune_814,Plaine Commune: Point de collecte verre,48.95049048,2.37501858,8-10 rue George Sand ,93240,Stains
+plainecommune_815,Plaine Commune: Point de collecte verre,48.94955965,2.37447165,2 Square Molière,93240,Stains
+plainecommune_816,Plaine Commune: Point de collecte verre,48.95197485,2.37319239,"117, Rue Jean Durand",93240,Stains
+plainecommune_817,Plaine Commune: Point de collecte verre,48.951792760000004,2.37675374,2 au 10 Apolinaire (entrer par la rue Verlaine),93240,Stains
+plainecommune_1186,Plaine Commune: Point de collecte verre,48.94776749,2.35247554,30 Rue du 19 Mars 1962,93200,Saint-Denis
+plainecommune_1187,Plaine Commune: Point de collecte verre,48.94460155,2.34119783,7 Chemin du Fort de la Briche,93200,Saint-Denis
+plainecommune_1188,Plaine Commune: Point de collecte verre,48.94538498,2.34006072,7 Chemin du Fort de la Briche,93200,Saint-Denis
+plainecommune_1189,Plaine Commune: Point de collecte verre,48.9457481,2.35000016,Avenue du Colonel Fabien n°38 (angle rue 19 mars 1962),93200,Saint-Denis
+plainecommune_1190,Plaine Commune: Point de collecte verre,48.94539257,2.35140931,30 Avenue du Colonel Fabien,93200,Saint-Denis
+plainecommune_1191,Plaine Commune: Point de collecte verre,48.94707336,2.34979236,Rue Eugène Hénaff (face au n°3),93200,Saint-Denis
+plainecommune_1192,Plaine Commune: Point de collecte verre,48.9425221,2.35479799,Rue Eugène Fournière,93200,Saint-Denis
+plainecommune_1193,Plaine Commune: Point de collecte verre,48.94764896,2.35929623,Rue Guynemer (angle rue E. Fabre),93200,Saint-Denis
+plainecommune_1194,Plaine Commune: Point de collecte verre,48.94481808,2.34921464,Rue des Martyrs n°11 (Cité Fabien),93200,Saint-Denis
+plainecommune_1195,Plaine Commune: Point de collecte verre,48.94309414,2.35281054,Rue Maurice Thorez (angle rue Max Jacob),93200,Saint-Denis
+plainecommune_1196,Plaine Commune: Point de collecte verre,48.94239495,2.34930085,Rue Maurice Thorez (face rue J. Duclos),93200,Saint-Denis
+plainecommune_1197,Plaine Commune: Point de collecte verre,48.94462376,2.35199487,Place Lucien Sampaix (cité Fabien),93200,Saint-Denis
+plainecommune_1198,Plaine Commune: Point de collecte verre,48.94134967,2.3505382,Rue Pierre Brossolette (angle rue G. Dourdin),93200,Saint-Denis
+plainecommune_1199,Plaine Commune: Point de collecte verre,48.94410049,2.35833997,Cité Stalingrad,93200,Saint-Denis
+plainecommune_1200,Plaine Commune: Point de collecte verre,48.94492879,2.35594495,Avenue du Colonel Fabien (Auberge),93200,Saint-Denis
+plainecommune_1201,Plaine Commune: Point de collecte verre,48.94850287,2.35156267,Rue Eugène Hénaff (face n°19),93200,Saint-Denis
+plainecommune_1202,Plaine Commune: Point de collecte verre,48.94600835,2.35937768,Avenue Lénine (angle rue Jules Védrine),93200,Saint-Denis
+plainecommune_1203,Plaine Commune: Point de collecte verre,48.94417091,2.35646005,Avenue du Colonel Fabien (angle rue Gabriel Péri),93200,Saint-Denis
+plainecommune_1204,Plaine Commune: Point de collecte verre,48.9404263,2.34740966,Rue des Moulins Gémeaux (angle rue Elsa Triolet),93200,Saint-Denis
+plainecommune_1205,Plaine Commune: Point de collecte verre,48.93918239,2.34738771,Rue Paul Eluard (face à la rue Suger),93200,Saint-Denis
+plainecommune_1206,Plaine Commune: Point de collecte verre,48.94132801,2.37007999,Rue de Chantilly,93200,Saint-Denis
+plainecommune_1207,Plaine Commune: Point de collecte verre,48.94477781,2.37723694,Rue du Chemin vert (côté Stains),93200,Saint-Denis
+plainecommune_1208,Plaine Commune: Point de collecte verre,48.94234683,2.37223497,62 Rue Henri Barbusse,93200,Saint-Denis
+plainecommune_1209,Plaine Commune: Point de collecte verre,48.94509425,2.37224416,Rue Henri Barbusse (angle rue d'Eaubonne),93200,Saint-Denis
+plainecommune_1210,Plaine Commune: Point de collecte verre,48.94030101,2.37174988,Rue Henri Barbusse (angle rue Robert Desnos),93200,Saint-Denis
+plainecommune_1211,Plaine Commune: Point de collecte verre,48.94055558,2.36913676,Rue Jean Cocteau,93200,Saint-Denis
+plainecommune_1212,Plaine Commune: Point de collecte verre,48.94282687,2.38472447,Rue de la Garenne (face Tour 8),93200,Saint-Denis
+plainecommune_1213,Plaine Commune: Point de collecte verre,48.94472407,2.37871891,Rue du Chemin vert (Parking Cité la Saussaie),93200,Saint-Denis
+plainecommune_1214,Plaine Commune: Point de collecte verre,48.94293658,2.38673754,Rue Granados (angle rue promenade de la Basilique),93200,Saint-Denis
+plainecommune_1215,Plaine Commune: Point de collecte verre,48.94139177,2.38025648,Rue Sevran (angle rue Chopin),93200,Saint-Denis
+plainecommune_1216,Plaine Commune: Point de collecte verre,48.9427451,2.38555893,Rue de Sisley (face au N°4),93200,Saint-Denis
+plainecommune_1217,Plaine Commune: Point de collecte verre,48.94603548,2.36641124,Avenue de Stalingrad n°40 (Cité Allende),93200,Saint-Denis
+plainecommune_1218,Plaine Commune: Point de collecte verre,48.9427463,2.36654238,Rue d' Argenteuil (angle rue de Verdun),93200,Saint-Denis
+plainecommune_1219,Plaine Commune: Point de collecte verre,48.94190311,2.37650225,Rue de Villiers (angle rue d'Ecouen),93200,Saint-Denis
+plainecommune_1220,Plaine Commune: Point de collecte verre,48.93955183,2.37300937,Rue Robert Coatanroch,93200,Saint-Denis
+plainecommune_1221,Plaine Commune: Point de collecte verre,48.9411253,2.38185548,Rue des Marnaudes (parking),93200,Saint-Denis
+plainecommune_1222,Plaine Commune: Point de collecte verre,48.94558459,2.36501299,Avenue de Stalingrad n°20 (face métro),93200,Saint-Denis
+plainecommune_1223,Plaine Commune: Point de collecte verre,48.9451785,2.36784511,Rue David Siqueiros (allée Las Casas),93200,Saint-Denis
+plainecommune_1224,Plaine Commune: Point de collecte verre,48.94695311,2.37226626,Avenue de Stalingrad (n°92),93200,Saint-Denis
+plainecommune_1225,Plaine Commune: Point de collecte verre,48.94138953,2.37401566,Rue de Bonneuil (angle rue de la Saussaie),93200,Saint-Denis
+plainecommune_1226,Plaine Commune: Point de collecte verre,48.93981704,2.36748737,Rue Georges Politzer,93200,Saint-Denis
+plainecommune_1227,Plaine Commune: Point de collecte verre,48.94723556,2.37372612,Avenue Stalingrad n°104,93200,Saint-Denis
+plainecommune_1228,Plaine Commune: Point de collecte verre,48.92543902,2.36440306,Rue Jesse Owens N°16 (Place du Cornillon),93200,Saint-Denis
+plainecommune_1229,Plaine Commune: Point de collecte verre,48.92973923,2.37513917,Route de la Courneuve n°2 (Gendarmerie),93200,Saint-Denis
+plainecommune_1230,Plaine Commune: Point de collecte verre,48.92915661,2.36192648,Rue Danielle Casanova (angle rue du Canal),93200,Saint-Denis
+plainecommune_1231,Plaine Commune: Point de collecte verre,48.92505011,2.3678881,Rue Danielle Casanova (angle rue Lorraine),93200,Saint-Denis
+plainecommune_1232,Plaine Commune: Point de collecte verre,48.92515607,2.37165526,"37, Rue de Lorraine",93200,Saint-Denis
+plainecommune_1233,Plaine Commune: Point de collecte verre,48.92443305,2.37190653,Rue de Lorraine n°43 (angle rue Pressencé),93200,Saint-Denis
+plainecommune_1234,Plaine Commune: Point de collecte verre,48.93059305,2.37308725,Fort de l'Est (caserne militaire),93200,Saint-Denis
+plainecommune_1235,Plaine Commune: Point de collecte verre,48.93059605,2.3730688,Fort de l'Est (caserne militaire),93200,Saint-Denis
+plainecommune_1236,Plaine Commune: Point de collecte verre,48.93030363,2.37196066,Fort de l'Est (caserne militaire),93200,Saint-Denis
+plainecommune_1237,Plaine Commune: Point de collecte verre,48.93136726,2.37598978,Route de la Courneuve n°2 (Gendarmerie),93200,Saint-Denis
+plainecommune_1238,Plaine Commune: Point de collecte verre,48.92389228,2.36453577,10 Rue Jesse Owens,93200,Saint-Denis
+plainecommune_1239,Plaine Commune: Point de collecte verre,48.92855067,2.36916239,Cours du Ru de Montfort (angle avenue du Franc Moisin),93200,Saint-Denis
+plainecommune_1240,Plaine Commune: Point de collecte verre,48.92742615,2.37165664,Rue du Franc Moisin (face au complexe sportif),93200,Saint-Denis
+plainecommune_1241,Plaine Commune: Point de collecte verre,48.9294096,2.35541768,"10, Rue Bobby Sands",93200,Saint-Denis
+plainecommune_1242,Plaine Commune: Point de collecte verre,48.94037825,2.35713258,9 Allée Stéphane Mallarmé,93200,Saint-Denis
+plainecommune_1243,Plaine Commune: Point de collecte verre,48.9387032,2.34583482,Rue Brise Echalas (angle rue Gisquet),93200,Saint-Denis
+plainecommune_1244,Plaine Commune: Point de collecte verre,48.93741242,2.3527554,Rue des Chaumettes (n°6),93200,Saint-Denis
+plainecommune_1245,Plaine Commune: Point de collecte verre,48.93508885,2.35683905,Rue des Boucheries (n°6),93200,Saint-Denis
+plainecommune_1246,Plaine Commune: Point de collecte verre,48.94096031,2.36251692,Rue Guy Môquet,93200,Saint-Denis
+plainecommune_1247,Plaine Commune: Point de collecte verre,48.93027239,2.37124503,1 Rue du Fort de l'Est,93200,Saint-Denis
+plainecommune_1248,Plaine Commune: Point de collecte verre,48.93859405,2.35024654,Rue Paul Eluard face n°4 (théâtre),93200,Saint-Denis
+plainecommune_1249,Plaine Commune: Point de collecte verre,48.93746037,2.36163981,15 Rue Edouard Vaillant,93200,Saint-Denis
+plainecommune_1250,Plaine Commune: Point de collecte verre,48.936111,2.36381364,Rue de Strasbourg (face au cimetière),93200,Saint-Denis
+plainecommune_1251,Plaine Commune: Point de collecte verre,48.93472558,2.35025591,Boulevard Bld Jules Guesde (au niveau de Carglass),93200,Saint-Denis
+plainecommune_1252,Plaine Commune: Point de collecte verre,48.93508279,2.35686278,Rue des Boucheries (n°6),93200,Saint-Denis
+plainecommune_1253,Plaine Commune: Point de collecte verre,48.9304735,2.3564014,2-4 Rue Gabriel Péri,93200,Saint-Denis
+plainecommune_1254,Plaine Commune: Point de collecte verre,48.94062441,2.35006354,Rue Gaston Philippe n°23,93200,Saint-Denis
+plainecommune_1255,Plaine Commune: Point de collecte verre,48.940959480000004,2.35395917,Rue Auguste Poullain ( angle rue Jean Mermoz),93200,Saint-Denis
+plainecommune_1256,Plaine Commune: Point de collecte verre,48.93934609,2.3552678,Rue Jean Marcenac (proche IUT),93200,Saint-Denis
+plainecommune_1257,Plaine Commune: Point de collecte verre,48.93838094,2.34811233,Rue Suger (angle rue Dézobry),93200,Saint-Denis
+plainecommune_1258,Plaine Commune: Point de collecte verre,48.93448103,2.35154307,"1, Rue Catulienne",93200,Saint-Denis
+plainecommune_1259,Plaine Commune: Point de collecte verre,48.93658861,2.37730974,Rue des Postillons (angle rue Diderot),93200,Saint-Denis
+plainecommune_1260,Plaine Commune: Point de collecte verre,48.93860814,2.37157397,Rue Henri Barbusse (angle rue de la Ferme),93200,Saint-Denis
+plainecommune_1261,Plaine Commune: Point de collecte verre,48.93791359,2.37090339,Rue Marcel Cachin n°2,93200,Saint-Denis
+plainecommune_1262,Plaine Commune: Point de collecte verre,48.93458109,2.36728533,Rue Paul Vaillant-Couturier n°108 (angle rue A.Einstein,93200,Saint-Denis
+plainecommune_1263,Plaine Commune: Point de collecte verre,48.93900128,2.38070881,Avenue Romain Rolland (angle rue des Postillons),93200,Saint-Denis
+plainecommune_1264,Plaine Commune: Point de collecte verre,48.93798334,2.37653174,Avenue Romain Rolland (angle rue Diderot),93200,Saint-Denis
+plainecommune_1265,Plaine Commune: Point de collecte verre,48.93596046,2.36868941,73 Rue de Strasbourg,93200,Saint-Denis
+plainecommune_1266,Plaine Commune: Point de collecte verre,48.93674026,2.37091358,87 Rue de Strasbourg,93200,Saint-Denis
+plainecommune_1267,Plaine Commune: Point de collecte verre,48.93170079,2.36760268,Rue du Bec à Loué (angle Victime du Francquisme),93200,Saint-Denis
+plainecommune_1268,Plaine Commune: Point de collecte verre,48.93533933,2.37085911,Avenue Saint-Rémy n°15,93200,Saint-Denis
+plainecommune_1269,Plaine Commune: Point de collecte verre,48.9374344,2.37267886,Avenue Romain Rolland (n°1),93200,Saint-Denis
+plainecommune_1270,Plaine Commune: Point de collecte verre,48.92583793,2.35500812,"Avenue du Président Wilson (L'Usine, rue J.Saunier)",93200,Saint-Denis
+plainecommune_1271,Plaine Commune: Point de collecte verre,48.92254257,2.34211818,Rue James Watt (Angle rue Faradey),93200,Saint-Denis
+plainecommune_1272,Plaine Commune: Point de collecte verre,48.91988511,2.34373022,Boulevard Anatole France (métro Pleyel),93200,Saint-Denis
+plainecommune_1273,Plaine Commune: Point de collecte verre,48.9182455,2.3413696,Boulevard Anatole France (angle Bld Docteur Finot),93200,Saint-Denis
+plainecommune_1274,Plaine Commune: Point de collecte verre,48.93286919,2.34274965,Place Jean Poulmarch,93200,Saint-Denis
+plainecommune_1275,Plaine Commune: Point de collecte verre,48.93795766,2.34250247,Quai de Seine n°6b (artistes),93200,Saint-Denis
+plainecommune_1276,Plaine Commune: Point de collecte verre,48.94060056,2.3430668,Rue Paul Eluard n°65 (Briche Foraine),93200,Saint-Denis
+plainecommune_1277,Plaine Commune: Point de collecte verre,48.91673665,2.3426516299999998,Rue des Renouillères,93200,Saint-Denis
+plainecommune_1278,Plaine Commune: Point de collecte verre,48.91549876,2.34438677,Boulevard Ornano (angle rue de Tunis),93200,Saint-Denis
+plainecommune_1279,Plaine Commune: Point de collecte verre,48.92098719,2.35679573,Avenue du Président Wilson (angle rue Jean Philippe Rameau),93200,Saint-Denis
+plainecommune_1280,Plaine Commune: Point de collecte verre,48.92267578,2.33990794,Rue Ampère (angle Allée de Seine),93200,Saint-Denis
+plainecommune_1281,Plaine Commune: Point de collecte verre,48.92157659,2.34327501,Rue Louis Marchand (rond point),93200,Saint-Denis
+plainecommune_1282,Plaine Commune: Point de collecte verre,48.91588089,2.35280327,1 Rue des Cheminots,93200,Saint-Denis
+plainecommune_1283,Plaine Commune: Point de collecte verre,48.91574926,2.36627091,Rue Henri Murger,93200,Saint-Denis
+plainecommune_1284,Plaine Commune: Point de collecte verre,48.91066193,2.36247557,Rue de la Montjoie (angle rue de l'Encyclopédie),93200,Saint-Denis
+plainecommune_1285,Plaine Commune: Point de collecte verre,48.91533366,2.35815646,Avenue du Président Wilson (angle rue du Landy),93200,Saint-Denis
+plainecommune_1286,Plaine Commune: Point de collecte verre,48.9093909,2.36065816,Rue de la Métallurgie (angle rue Eiffel),93200,Saint-Denis
+plainecommune_1287,Plaine Commune: Point de collecte verre,48.90924388,2.36346449,Rue de la Métallurgie (angle rue Olympes de Gouges),93200,Saint-Denis
+plainecommune_1288,Plaine Commune: Point de collecte verre,48.91734371,2.35479339,Avenue des Fruitiers (n°19),93200,Saint-Denis
+plainecommune_1289,Plaine Commune: Point de collecte verre,48.90813976,2.36454037,13 Avenue George Sand,93200,Saint-Denis
+plainecommune_1290,Plaine Commune: Point de collecte verre,48.90652413,2.36331782,1 Rue Leon Nozal,93200,Saint-Denis
+plainecommune_1291,Plaine Commune: Point de collecte verre,48.9157517,2.35280707,Rue des Cheminots (angle rue Gilles Margaretis),93200,Saint-Denis
+plainecommune_1292,Plaine Commune: Point de collecte verre,48.91641648,2.35493404,Avenue des Fruitiers (angle rue Fraizier),93200,Saint-Denis
+plainecommune_1293,Plaine Commune: Point de collecte verre,48.91537841,2.36211169,Rue du Landy (angle rue des Arts et Métiers),93200,Saint-Denis
+plainecommune_1294,Plaine Commune: Point de collecte verre,48.90913915,2.36453736,Rue de la Métallurgie (angle rue Georges Sand),93200,Saint-Denis
+plainecommune_1295,Plaine Commune: Point de collecte verre,48.91153244,2.35671256,Rue du Bailly (après l'école),93200,Saint-Denis
+plainecommune_1296,Plaine Commune: Point de collecte verre,48.91259637,2.3579323,Avenue du Président Wilson (2ème intersection),93200,Saint-Denis
+plainecommune_1297,Plaine Commune: Point de collecte verre,48.9106518,2.35811452,Avenue du Président Wilson (3ème intersection),93200,Saint-Denis
+plainecommune_1298,Plaine Commune: Point de collecte verre,48.90939576,2.35822262,Avenue du Président Wilson (4ème intersection),93200,Saint-Denis
+plainecommune_1299,Plaine Commune: Point de collecte verre,48.90758714,2.3579576700000002,Avenue du Président Wilson (angle Impasse Chevalier),93200,Saint-Denis
+plainecommune_1300,Plaine Commune: Point de collecte verre,48.90857438,2.3586652900000002,Avenue du Président Wilson (angle rue Saint Just),93200,Saint-Denis
+plainecommune_1302,Plaine Commune: Point de collecte verre,48.92191076,2.35681,281 avenue président Wilson face sfr,93200,Saint-Denis
+plainecommune_1303,Plaine Commune: Point de collecte verre,48.90521513,2.35814584,Avenue du Président Wilson n°81 (face pont Hainguerlot),93200,Saint-Denis
+plainecommune_1304,Plaine Commune: Point de collecte verre,48.93051451,2.35313594,Place Parmentier,93200,Saint-Denis
+plainecommune_1305,Plaine Commune: Point de collecte verre,48.94575119,2.34997006,38 Avenue du Colonel Fabien,93200,Saint-Denis
+plainecommune_1306,Plaine Commune: Point de collecte verre,48.93879311,2.36140207,"7, Chemin des Poulies",93200,Saint-Denis
+plainecommune_1307,Plaine Commune: Point de collecte verre,48.93406222,2.35030833,boulevard Jules Guesdes angle rue Moreau,93200,Saint-Denis
+plainecommune_1308,Plaine Commune: Point de collecte verre,48.92615762,2.34179855,16 Boulevard de la Libération,93200,Saint-Denis
+plainecommune_1309,Plaine Commune: Point de collecte verre,48.93727583,2.34991226,rue Suger angle bd Jules Guesde,93200,Saint-Denis
+plainecommune_1310,Plaine Commune: Point de collecte verre,48.93553247,2.35730721,"6, Rue du Cygne",93200,Saint-Denis
+plainecommune_1311,Plaine Commune: Point de collecte verre,48.93292592,2.3574495,"6, Rue de la Légion d'Honneur",93200,Saint-Denis
+plainecommune_1312,Plaine Commune: Point de collecte verre,48.92567998,2.37215221,"11, Rue du Languedoc",93200,Saint-Denis
+plainecommune_1313,Plaine Commune: Point de collecte verre,48.92903985,2.3448260100000002,"103, Rue Charles Michels",93200,Saint-Denis
+plainecommune_1314,Plaine Commune: Point de collecte verre,48.92022787,2.35440588,40 rue des Fruitiers Saint Denis,93200,Saint-Denis
+plainecommune_1315,Plaine Commune: Point de collecte verre,48.9370793,2.36796328,5 avenue Lénine ,93200,Saint-Denis
+plainecommune_1316,Plaine Commune: Point de collecte verre,48.93868924,2.34582849,Rue Brise Echalas (angle rue Gisquet),93200,Saint-Denis
+plainecommune_1317,Plaine Commune: Point de collecte verre,48.95061498,2.3545347899999998,"11, Rue Gaston Monmousseau",93200,Saint-Denis
+plainecommune_1318,Plaine Commune: Point de collecte verre,48.94976812,2.35333606,Rue Jean-Pierre Timbaud n°15,93200,Saint-Denis
+plainecommune_1319,Plaine Commune: Point de collecte verre,48.94674105,2.34915643,Place Julian Grimau n°2,93200,Saint-Denis
+plainecommune_1320,Plaine Commune: Point de collecte verre,48.94600905,2.34943007,Cité Auguste Delaune (n°40),93200,Saint-Denis
+plainecommune_1321,Plaine Commune: Point de collecte verre,48.94890963,2.35198328,Rue Émile Chrétien n°3,93200,Saint-Denis
+plainecommune_1322,Plaine Commune: Point de collecte verre,48.94440765,2.34887209,"6, Rue du Pont Saint-Lazare",93200,Saint-Denis
+plainecommune_1323,Plaine Commune: Point de collecte verre,48.94469377,2.34804877,"12, Rue du Pont Saint-Lazare",93200,Saint-Denis
+plainecommune_1324,Plaine Commune: Point de collecte verre,48.94847676,2.3523259999999997,Place Pierre Sémard,93200,Saint-Denis
+plainecommune_1325,Plaine Commune: Point de collecte verre,48.9437986,2.34866551,Rue du Pont Saint-Lazare,93200,Saint-Denis
+plainecommune_1326,Plaine Commune: Point de collecte verre,48.94145186,2.34540432,Rue Jean Lurçat n°7,93200,Saint-Denis
+plainecommune_1327,Plaine Commune: Point de collecte verre,48.94173728,2.34627275,"3, Place Paul Eluard",93200,Saint-Denis
+plainecommune_1328,Plaine Commune: Point de collecte verre,48.94217865,2.34659728,"4, Place Paul Eluard",93200,Saint-Denis
+plainecommune_1329,Plaine Commune: Point de collecte verre,48.94368169,2.37888772,Rue des Aulnes n°4,93200,Saint-Denis
+plainecommune_1330,Plaine Commune: Point de collecte verre,48.94245832,2.3848068700000002,Rue de la Garenne (Angle rue Falla),93200,Saint-Denis
+plainecommune_1331,Plaine Commune: Point de collecte verre,48.94251381,2.35718225,"72, Rue Bonnevide",93200,Saint-Denis
+plainecommune_1332,Plaine Commune: Point de collecte verre,48.94165832,2.3572034,Rue Charles Baudelaire (antenne jeunesse),93200,Saint-Denis
+plainecommune_1333,Plaine Commune: Point de collecte verre,48.94172698,2.35766254,Rue Charles Baudelaire n°3,93200,Saint-Denis
+plainecommune_1334,Plaine Commune: Point de collecte verre,48.93593315,2.36224908,Passage du Moulin Choisel,93200,Saint-Denis
+plainecommune_1335,Plaine Commune: Point de collecte verre,48.93847135,2.37419036,Allée Jean Richard Bloch n°20,93200,Saint-Denis
+plainecommune_1336,Plaine Commune: Point de collecte verre,48.93818938,2.37316066,Allée Jean Richard Bloch n°14,93200,Saint-Denis
+plainecommune_1337,Plaine Commune: Point de collecte verre,48.937947,2.37229534,Allée Jean Richard Bloch n°1,93200,Saint-Denis
+plainecommune_1338,Plaine Commune: Point de collecte verre,48.93278977,2.3783569,Rue Alan Sheppard (Cité Cosmonautes - angle rue Edouard White),93200,Saint-Denis
+plainecommune_1339,Plaine Commune: Point de collecte verre,48.93208242,2.3830030300000002,"1, Rue Vladimir Komarov",93200,Saint-Denis
+plainecommune_1340,Plaine Commune: Point de collecte verre,48.93198903,2.38201698,"5, Place Youri Gagarine",93200,Saint-Denis
+plainecommune_1341,Plaine Commune: Point de collecte verre,48.9319857,2.38204095,"5, Place Youri Gagarine",93200,Saint-Denis
+plainecommune_1342,Plaine Commune: Point de collecte verre,48.93133215,2.3827582,Cité Cosmonautes - Rue Youri Gagarine,93200,Saint-Denis
+plainecommune_1343,Plaine Commune: Point de collecte verre,48.93274291,2.37957545,Cité Cosmonautes - Rue Virgil Grisson,93200,Saint-Denis
+plainecommune_1344,Plaine Commune: Point de collecte verre,48.93292715,2.36954803,Rue Maurice Audin n°2,93200,Saint-Denis
+plainecommune_1345,Plaine Commune: Point de collecte verre,48.93269757,2.3684216,Cité Joliot-Curie - Rue Maurice Audin,93200,Saint-Denis
+plainecommune_1346,Plaine Commune: Point de collecte verre,48.93355853,2.36889408,Avenue I. et F. Joliot-Curie (n°7),93200,Saint-Denis
+plainecommune_1347,Plaine Commune: Point de collecte verre,48.9368968,2.34392757,5 rue de la confluence ,93200,Saint-Denis
+plainecommune_1348,Plaine Commune: Point de collecte verre,48.93759262,2.34372883,13 rue de la confluence,93200,Saint-Denis
+plainecommune_1349,Plaine Commune: Point de collecte verre,48.91474637,2.35274299,Rue Flora Tristan,93200,Saint-Denis
+plainecommune_1350,Plaine Commune: Point de collecte verre,48.90840366,2.36217051,13 Rue Saint-Just,93200,Saint-Denis
+plainecommune_1351,Plaine Commune: Point de collecte verre,48.91371973,2.35862676,Rue Amilcar Cabral (n°20),93200,Saint-Denis
+plainecommune_1352,Plaine Commune: Point de collecte verre,48.91296254,2.35884592,Rue des Blés n°3,93200,Saint-Denis
+plainecommune_1353,Plaine Commune: Point de collecte verre,48.91294029,2.36137059,Rue des Blés n°15,93200,Saint-Denis
+plainecommune_1354,Plaine Commune: Point de collecte verre,48.91432162,2.35382334,Rue du Capitaine Alfred Dreyfus n°16,93200,Saint-Denis
+plainecommune_1355,Plaine Commune: Point de collecte verre,48.91469759,2.3549023399999998,Rue du Capitaine Dreyfus n°2,93200,Saint-Denis
+plainecommune_1356,Plaine Commune: Point de collecte verre,48.90720327,2.36457274,5 Avenue George Sand,93200,Saint-Denis
+plainecommune_1357,Plaine Commune: Point de collecte verre,48.91751458,2.36277296,Rue Henri Roll-Tanguy  ,93200,Saint-Denis
+plainecommune_1358,Plaine Commune: Point de collecte verre,48.91371463,2.36104688,Rue Amilcar Cabral (N°8),93200,Saint-Denis
+plainecommune_1359,Plaine Commune: Point de collecte verre,48.94308339,2.38294042,Rue du Plouich n°2,93200,Saint-Denis
+plainecommune_1360,Plaine Commune: Point de collecte verre,48.94307028,2.38164531,"3, Rue du Plouich",93200,Saint-Denis
+plainecommune_1361,Plaine Commune: Point de collecte verre,48.94212218,2.3806867,Rue du Plouich n°5,93200,Saint-Denis
+plainecommune_1362,Plaine Commune: Point de collecte verre,48.95088332,2.35582272,6 Rue Gaston Monmousseau,93200,Saint-Denis
+plainecommune_1363,Plaine Commune: Point de collecte verre,48.92695909,2.36803047,allée antoine de St-Exupéry (n°7/9),93200,Saint-Denis
+plainecommune_1364,Plaine Commune: Point de collecte verre,48.92652933,2.36814315,1-7 Allée Antoine de Saint-Exupéry,93200,Saint-Denis
+plainecommune_1365,Plaine Commune: Point de collecte verre,48.92670559,2.36900425,"25, Allée Antoine de Saint-Exupéry",93200,Saint-Denis
+plainecommune_1366,Plaine Commune: Point de collecte verre,48.94278875,2.37964807,2 rue Corot,93200,Saint-Denis
+plainecommune_1367,Plaine Commune: Point de collecte verre,48.9255049,2.36966304,"16, Rue de Lorraine",93200,Saint-Denis
+plainecommune_1368,Plaine Commune: Point de collecte verre,48.92501724,2.37007508,22 Rue de Lorraine,93200,Saint-Denis
+plainecommune_1369,Plaine Commune: Point de collecte verre,48.9252711,2.3708701,"33, Rue de Lorraine",93200,Saint-Denis
+plainecommune_1370,Plaine Commune: Point de collecte verre,48.94245818,2.38495618,7 Rue de la Garenne,93200,Saint-Denis
+plainecommune_1371,Plaine Commune: Point de collecte verre,48.93291074,2.35534686,Place de la Résistance,93200,Saint-Denis
+plainecommune_1372,Plaine Commune: Point de collecte verre,48.93039958,2.35850074,8 rue barbacane,93200,Saint-Denis
+plainecommune_1373,Plaine Commune: Point de collecte verre,48.9422117,2.3829216,"3, Promenade de la Basilique",93200,Saint-Denis
+plainecommune_1374,Plaine Commune: Point de collecte verre,48.91373166,2.36531697,49-51 rue Georges Sand,93200,Saint-Denis
+plainecommune_1375,Plaine Commune: Point de collecte verre,48.94352796,2.35878955,3-4 Allée de la Sellerie,93200,Saint-Denis
+plainecommune_1376,Plaine Commune: Point de collecte verre,48.94031216,2.36074334,5 Rue Jacques Woog,93200,Saint-Denis
+plainecommune_1377,Plaine Commune: Point de collecte verre,48.95140901,2.35540774,23 Rue Gaston Monmousseau,93200,Saint-Denis
+plainecommune_1379,Plaine Commune: Point de collecte verre,48.93068147,2.3530935,"4, Rue Génin",93200,Saint-Denis
+plainecommune_1380,Plaine Commune: Point de collecte verre,48.9392841,2.36077761,"1, Allée du Professeur Fruhling",93200,Saint-Denis
+plainecommune_1381,Plaine Commune: Point de collecte verre,48.940844,2.35762,"1, Rue Arthur Rimbaud",93200,Saint-Denis
+plainecommune_1382,Plaine Commune: Point de collecte verre,48.9408499,2.35842156,"3, Rue Arthur Rimbaud",93200,Saint-Denis
+plainecommune_1383,Plaine Commune: Point de collecte verre,48.93992585,2.35868008,"3, Place Lautréamont",93200,Saint-Denis
+plainecommune_1384,Plaine Commune: Point de collecte verre,48.93992979,2.35782097,"3, Rue Paul Verlaine",93200,Saint-Denis
+plainecommune_1385,Plaine Commune: Point de collecte verre,48.94072725,2.3575098,"2, Place Stéphane Mallarmé",93200,Saint-Denis
+plainecommune_1386,Plaine Commune: Point de collecte verre,48.940169999999995,2.35752,"6, Place Stéphane Mallarmé",93200,Saint-Denis
+plainecommune_1387,Plaine Commune: Point de collecte verre,48.93621561,2.34390647,3 rue de la Confluence,93200,Saint-Denis
+plainecommune_1388,Plaine Commune: Point de collecte verre,48.93778398,2.3705532,2 rue Jean Baptiste Clément,93200,Saint-Denis
+plainecommune_1389,Plaine Commune: Point de collecte verre,48.96265451,2.3434482,rue du 19 mars 1962 Place Jean Baptiste Clément,93430,Villetaneuse
+plainecommune_1395,Plaine Commune: Point de collecte verre,48.91158301,2.33291017,Angle rue Meslier et Victor Hugo,93000,Saint-Ouen-Sur-Seine-sur-Seine
+plainecommune_1396,Plaine Commune: Point de collecte verre,48.90558785,2.32339267,124-132 Boulevard Victor Hugo,93000,Saint-Ouen-Sur-Seine-sur-Seine
+plainecommune_1397,Plaine Commune: Point de collecte verre,48.90742883,2.33216787,Avenue Gabriel Péri (n°59),93000,Saint-Ouen-Sur-Seine-sur-Seine
+plainecommune_1398,Plaine Commune: Point de collecte verre,48.9081407,2.32782822,Boulevard Victor Hugo (n°81),93000,Saint-Ouen-Sur-Seine-sur-Seine
+plainecommune_1399,Plaine Commune: Point de collecte verre,48.91431339,2.3253788699999998,Angle rue des Bateliers et rue Audin ,93000,Saint-Ouen-Sur-Seine-sur-Seine
+plainecommune_1400,Plaine Commune: Point de collecte verre,48.92196993,2.33387502,Rue Nicolau,93000,Saint-Ouen-Sur-Seine-sur-Seine
+plainecommune_1401,Plaine Commune: Point de collecte verre,48.9010905,2.32993305,Rue Lafontaine,93000,Saint-Ouen-Sur-Seine-sur-Seine
+plainecommune_1402,Plaine Commune: Point de collecte verre,48.90643724,2.33184912,Avenue Gabriel Péri,93000,Saint-Ouen-Sur-Seine-sur-Seine
+plainecommune_1403,Plaine Commune: Point de collecte verre,48.90324547,2.32959867,Avenue du Capitaine Glarner,93000,Saint-Ouen-Sur-Seine-sur-Seine
+plainecommune_1404,Plaine Commune: Point de collecte verre,48.90462044,2.32875914,"37-39, Rue Farcot",93000,Saint-Ouen-Sur-Seine-sur-Seine
+plainecommune_1405,Plaine Commune: Point de collecte verre,48.90317722,2.33427191,Rue Kleber,93000,Saint-Ouen-Sur-Seine-sur-Seine
+plainecommune_1406,Plaine Commune: Point de collecte verre,48.90785495,2.3408409900000002,Rue du Docteur Bauer,93000,Saint-Ouen-Sur-Seine-sur-Seine
+plainecommune_1407,Plaine Commune: Point de collecte verre,48.9132499,2.33359053,2 Rue Adrien Meslier,93000,Saint-Ouen-Sur-Seine-sur-Seine
+plainecommune_1408,Plaine Commune: Point de collecte verre,48.90890028,2.33270878,Avenue Gabriel Péri,93000,Saint-Ouen-Sur-Seine-sur-Seine
+plainecommune_1409,Plaine Commune: Point de collecte verre,48.91750968,2.33224622,Rue de Saint-Denis,93000,Saint-Ouen-Sur-Seine-sur-Seine
+plainecommune_1410,Plaine Commune: Point de collecte verre,48.91453824,2.33716552,7 Boulevard Jean Jaurès,93000,Saint-Ouen-Sur-Seine-sur-Seine
+plainecommune_1411,Plaine Commune: Point de collecte verre,48.91628267,2.3349705099999998,11 Rue Paul Langevin,93000,Saint-Ouen-Sur-Seine-sur-Seine
+plainecommune_1412,Plaine Commune: Point de collecte verre,48.91631457,2.33259235,2-4 Rue du Docteur Léonce Basset,93000,Saint-Ouen-Sur-Seine-sur-Seine
+plainecommune_1413,Plaine Commune: Point de collecte verre,48.91696749,2.33016013,Rue Albert Dhalenne,93000,Saint-Ouen-Sur-Seine-sur-Seine
+plainecommune_1414,Plaine Commune: Point de collecte verre,48.91518376,2.33158478,49 Rue Albert Dhalenne,93000,Saint-Ouen-Sur-Seine-sur-Seine
+plainecommune_1415,Plaine Commune: Point de collecte verre,48.92017746,2.33588846,Rue de Saint-Denis,93000,Saint-Ouen-Sur-Seine-sur-Seine
+plainecommune_1416,Plaine Commune: Point de collecte verre,48.91690625,2.33641246,21-23 Rue Salvador Allende,93000,Saint-Ouen-Sur-Seine-sur-Seine
+plainecommune_1417,Plaine Commune: Point de collecte verre,48.91629271,2.33805492,Boulevard Anatole France (angle Salvatord Allende),93000,Saint-Ouen-Sur-Seine-sur-Seine
+plainecommune_1418,Plaine Commune: Point de collecte verre,48.90416046,2.32267929,Rue Madeleine Rebérioux,93000,Saint-Ouen-Sur-Seine-sur-Seine
+plainecommune_1419,Plaine Commune: Point de collecte verre,48.91843141,2.33161927,5 Rue du Moutier,93000,Saint-Ouen-Sur-Seine-sur-Seine
+plainecommune_1420,Plaine Commune: Point de collecte verre,48.91060256,2.33367171,Rue Anselme,93000,Saint-Ouen-Sur-Seine-sur-Seine
+plainecommune_1421,Plaine Commune: Point de collecte verre,48.9125436,2.33521085,3 Rue Docteur Bauer,93000,Saint-Ouen-Sur-Seine-sur-Seine
+plainecommune_1422,Plaine Commune: Point de collecte verre,48.91138069,2.33950066,Rue Claude Monet,93000,Saint-Ouen-Sur-Seine-sur-Seine
+plainecommune_1423,Plaine Commune: Point de collecte verre,48.91001258,2.33794239,Rue du Docteur Bauer,93000,Saint-Ouen-Sur-Seine-sur-Seine
+plainecommune_1424,Plaine Commune: Point de collecte verre,48.91039886,2.34406479,Avenue Michelet,93000,Saint-Ouen-Sur-Seine-sur-Seine
+plainecommune_1425,Plaine Commune: Point de collecte verre,48.91251065,2.33771637,"12, Rue Emile Cordon",93000,Saint-Ouen-Sur-Seine-sur-Seine
+plainecommune_1426,Plaine Commune: Point de collecte verre,48.91252198,2.3377440800000002,"39, Allée Paul Taupin",93000,Saint-Ouen-Sur-Seine-sur-Seine
+plainecommune_1427,Plaine Commune: Point de collecte verre,48.91346021,2.3440655599999998,Avenue Michelet,93000,Saint-Ouen-Sur-Seine-sur-Seine
+plainecommune_1428,Plaine Commune: Point de collecte verre,48.9059553,2.34431508,Avenue Michelet (n°87),93000,Saint-Ouen-Sur-Seine-sur-Seine
+plainecommune_1429,Plaine Commune: Point de collecte verre,48.91174098,2.33684031,Rue du Docteur Bauer (n°19/21),93000,Saint-Ouen-Sur-Seine-sur-Seine
+plainecommune_1430,Plaine Commune: Point de collecte verre,48.90869012,2.34403842,Avenue Michelet,93000,Saint-Ouen-Sur-Seine-sur-Seine
+plainecommune_1431,Plaine Commune: Point de collecte verre,48.9067151,2.34431656,Rue Eugene Berthoud,93000,Saint-Ouen-Sur-Seine-sur-Seine
+plainecommune_1432,Plaine Commune: Point de collecte verre,48.90268761,2.35188998,"15-23, Rue des Poissonniers",93000,Saint-Ouen-Sur-Seine-sur-Seine
+plainecommune_1433,Plaine Commune: Point de collecte verre,48.90314173,2.34752252,Rue Desportes (n°2),93000,Saint-Ouen-Sur-Seine-sur-Seine
+plainecommune_1434,Plaine Commune: Point de collecte verre,48.90214803,2.32655263,Rue Massenet,93000,Saint-Ouen-Sur-Seine-sur-Seine
+plainecommune_1435,Plaine Commune: Point de collecte verre,48.90657615,2.34232461,Rue du Docteur Bauer,93000,Saint-Ouen-Sur-Seine-sur-Seine
+plainecommune_1436,Plaine Commune: Point de collecte verre,48.90992379,2.34190911,Angle rue Godillot et rue Helbronner,93000,Saint-Ouen-Sur-Seine-sur-Seine
+plainecommune_1437,Plaine Commune: Point de collecte verre,48.90795479,2.3371965,Boulevard Biron,93000,Saint-Ouen-Sur-Seine-sur-Seine
+plainecommune_1438,Plaine Commune: Point de collecte verre,48.90592897,2.33621118,"50, Rue des Rosiers",93000,Saint-Ouen-Sur-Seine-sur-Seine
+plainecommune_1439,Plaine Commune: Point de collecte verre,48.90384785,2.33346523,Rue Charles Schmidt,93000,Saint-Ouen-Sur-Seine-sur-Seine
+plainecommune_1440,Plaine Commune: Point de collecte verre,48.9033223,2.32203917,Rue Camille Claudel,93000,Saint-Ouen-Sur-Seine-sur-Seine
+plainecommune_1441,Plaine Commune: Point de collecte verre,48.90993144,2.33080609,Angle rue Ernest Renan et boulevard Victor Hugo,93000,Saint-Ouen-Sur-Seine-sur-Seine
+plainecommune_1442,Plaine Commune: Point de collecte verre,48.90197578,2.33619512,12-14 Rue Neuve Pierre Curie,93000,Saint-Ouen-Sur-Seine-sur-Seine
+plainecommune_1443,Plaine Commune: Point de collecte verre,48.90391033,2.33524225,Rue Mathieu,93000,Saint-Ouen-Sur-Seine-sur-Seine
+plainecommune_1444,Plaine Commune: Point de collecte verre,48.91369688,2.3334638500000002,73 Rue Albert Dhalenne,93000,Saint-Ouen-Sur-Seine-sur-Seine
+plainecommune_1445,Plaine Commune: Point de collecte verre,48.91189047,2.3361652299999998,Rue du Docteur Bauer,93000,Saint-Ouen-Sur-Seine-sur-Seine
+plainecommune_1446,Plaine Commune: Point de collecte verre,48.90544617,2.32528696,11 rue Arago,93000,Saint-Ouen-Sur-Seine-sur-Seine
+plainecommune_1447,Plaine Commune: Point de collecte verre,48.91269002,2.32047384,Brasserie de l'Etoile 94 Bd Victor Hugo,93000,Saint-Ouen-Sur-Seine-sur-Seine
+plainecommune_1448,Plaine Commune: Point de collecte verre,48.90478321,2.32842509,"38, Avenue du Capitaine Glarner",93000,Saint-Ouen-Sur-Seine-sur-Seine
+plainecommune_1449,Plaine Commune: Point de collecte verre,48.9070127,2.32670285,6 Place du Capitaine Glarner,93000,Saint-Ouen-Sur-Seine-sur-Seine
+plainecommune_1450,Plaine Commune: Point de collecte verre,48.91432909,2.32537741,Angle rue des Bateliers et rue Audin ,93000,Saint-Ouen-Sur-Seine-sur-Seine
+plainecommune_1451,Plaine Commune: Point de collecte verre,48.90928085,2.33515604,Rue Alexandre Bachelet,93000,Saint-Ouen-Sur-Seine-sur-Seine
+plainecommune_1452,Plaine Commune: Point de collecte verre,48.91540966,2.33348944,Rue des Chantiers,93000,Saint-Ouen-Sur-Seine-sur-Seine
+plainecommune_1453,Plaine Commune: Point de collecte verre,48.90267487,2.33978062,Rue Paul Bert,93000,Saint-Ouen-Sur-Seine-sur-Seine
+plainecommune_1454,Plaine Commune: Point de collecte verre,48.90197591,2.35041722,Rue Marcel Bourdarias,93000,Saint-Ouen-Sur-Seine-sur-Seine
+plainecommune_1455,Plaine Commune: Point de collecte verre,48.90525995,2.33938585,Impasse Charles Garnier,93000,Saint-Ouen-Sur-Seine-sur-Seine
+plainecommune_1456,Plaine Commune: Point de collecte verre,48.90400097,2.33902301,"98, Rue des Rosiers",93000,Saint-Ouen-Sur-Seine-sur-Seine
+plainecommune_1457,Plaine Commune: Point de collecte verre,48.90355739,2.3311911800000003,Avenue Gabriel Péri,93000,Saint-Ouen-Sur-Seine-sur-Seine
+plainecommune_1458,Plaine Commune: Point de collecte verre,48.90138861,2.33525778,Rue Charles Schmidt,93000,Saint-Ouen-Sur-Seine-sur-Seine
+plainecommune_1459,Plaine Commune: Point de collecte verre,48.90547754,2.34711267,Rue Eugene Berthoud,93000,Saint-Ouen-Sur-Seine-sur-Seine
+plainecommune_1460,Plaine Commune: Point de collecte verre,48.90330567,2.32404321,Rue Arago,93000,Saint-Ouen-Sur-Seine-sur-Seine
+plainecommune_1461,Plaine Commune: Point de collecte verre,48.90508916,2.33776222,Rue des Rosiers,93000,Saint-Ouen-Sur-Seine-sur-Seine
+plainecommune_1462,Plaine Commune: Point de collecte verre,48.90388308,2.34884492,Passage Jeanne d'Arc,93000,Saint-Ouen-Sur-Seine-sur-Seine
+plainecommune_1463,Plaine Commune: Point de collecte verre,48.91436445,2.3318636,Rue du Prince de Motordu,93000,Saint-Ouen-Sur-Seine-sur-Seine
+plainecommune_1464,Plaine Commune: Point de collecte verre,48.91486241,2.33050052,Rue la Clef des Champs,93000,Saint-Ouen-Sur-Seine-sur-Seine
+plainecommune_1465,Plaine Commune: Point de collecte verre,48.91345715,2.32752097,Rue la Clef des Champs,93000,Saint-Ouen-Sur-Seine-sur-Seine
+plainecommune_1466,Plaine Commune: Point de collecte verre,48.91344124,2.32489025,Rue Germaine Tillion,93000,Saint-Ouen-Sur-Seine-sur-Seine
+plainecommune_1467,Plaine Commune: Point de collecte verre,48.91264854,2.32579609,Allée de Paris,93000,Saint-Ouen-Sur-Seine-sur-Seine
+plainecommune_1469,Plaine Commune: Point de collecte verre,48.91356797,2.32952029,7 rue frida khalo,93000,Saint-Ouen-Sur-Seine-sur-Seine
+plainecommune_1470,Plaine Commune: Point de collecte verre,48.91001781,2.32912501,25 Rue Pablo Picasso,93000,Saint-Ouen-Sur-Seine-sur-Seine
+plainecommune_1471,Plaine Commune: Point de collecte verre,48.91539672,2.33351487,Rue des Chantiers,93000,Saint-Ouen-Sur-Seine-sur-Seine
+plainecommune_1472,Plaine Commune: Point de collecte verre,48.90928047,2.33512987,Rue Alexandre Bachelet,93000,Saint-Ouen-Sur-Seine-sur-Seine
+plainecommune_1473,Plaine Commune: Point de collecte verre,48.90266189,2.33980064,Rue Paul Bert,93000,Saint-Ouen-Sur-Seine-sur-Seine
+plainecommune_1474,Plaine Commune: Point de collecte verre,48.91327516,2.32673126,"23, Rue des Bateliers",93000,Saint-Ouen-Sur-Seine-sur-Seine
+plainecommune_1475,Plaine Commune: Point de collecte verre,48.91484389,2.3240066600000002,rue Gisele Halimi ,93000,Saint-Ouen-Sur-Seine-sur-Seine
+plainecommune_1493,Plaine Commune: Point de collecte verre,48.964263270000004,2.34761718,Avenue Jean Jaurès ( Devant le CTM),93430,Villetaneuse
+plainecommune_1494,Plaine Commune: Point de collecte verre,48.96466819,2.34311251,Avenue Victor Hugo (face au N°7),93430,Villetaneuse
+plainecommune_1495,Plaine Commune: Point de collecte verre,48.9601533,2.34493802,Rue Etienne Fajon,93430,Villetaneuse
+plainecommune_1496,Plaine Commune: Point de collecte verre,48.96196278,2.34324008,Rue du 19 Mars 1962 (Devant la poste),93430,Villetaneuse
+plainecommune_1497,Plaine Commune: Point de collecte verre,48.96229149,2.34103036,Rue Henri Barbusse (Angle Louis Aragon),93430,Villetaneuse
+plainecommune_1498,Plaine Commune: Point de collecte verre,48.96095355,2.34246538,Rue du 19 Mars 1962 (angle George Sand),93430,Villetaneuse
+plainecommune_1499,Plaine Commune: Point de collecte verre,48.95942799,2.35032461,"44, Rue Raymond Brosse",93430,Villetaneuse
+plainecommune_1500,Plaine Commune: Point de collecte verre,48.95686254,2.35286981,Chemin des Joncherolles (entrée LCR Angle Jardins),93430,Villetaneuse
+plainecommune_1501,Plaine Commune: Point de collecte verre,48.95608001,2.34685854,Rue Raymond Brosse (Angle rue Maurice Paillard),93430,Villetaneuse
+plainecommune_1502,Plaine Commune: Point de collecte verre,48.95646302,2.34367997,Avenue de la Division Leclerc (Face N° 41),93430,Villetaneuse
+plainecommune_1503,Plaine Commune: Point de collecte verre,48.97092645,2.36750918,RUE JACQUES PREVERT ANGLE RUE CORA VAUCAIRE,93380,Pierrefitte-sur-Seine
+plainecommune_1504,Plaine Commune: Point de collecte verre,48.9486768,2.34424419,Parking Auchan,93430,Villetaneuse
+plainecommune_1505,Plaine Commune: Point de collecte verre,48.94835751,2.34636331,Rue Frédéric Ozanam (angle de la cité ),93430,Villetaneuse
+plainecommune_1506,Plaine Commune: Point de collecte verre,48.95152832,2.34538888,Allée des Amaryllis (N°75),93430,Villetaneuse
+plainecommune_1507,Plaine Commune: Point de collecte verre,48.95416705,2.3353551,Route de Saint-Leu (niveau de la banque),93430,Villetaneuse
+plainecommune_1508,Plaine Commune: Point de collecte verre,48.95480917,2.3344939,Route de Saint-Leu (Parking - Cité à côté du transformateur),93430,Villetaneuse
+plainecommune_1509,Plaine Commune: Point de collecte verre,48.96466775,2.34314035,Avenue Victor Hugo (face au N°7),93430,Villetaneuse
+plainecommune_1510,Plaine Commune: Point de collecte verre,48.96067078,2.34544355,3 rue Roger Salengro ,93430,Villetaneuse
+plainecommune_1511,Plaine Commune: Point de collecte verre,48.95825819,2.34194182,12 rue de l'Université,93430,Villetaneuse
+plainecommune_1512,Plaine Commune: Point de collecte verre,48.96044664,2.34995022,21 Rue Pasteur,93430,Villetaneuse
+plainecommune_1513,Plaine Commune: Point de collecte verre,48.95184952,2.34064435,Rue Paul Langevin,93430,Villetaneuse
+plainecommune_1514,Plaine Commune: Point de collecte verre,48.96426433,2.34759187,Avenue Jean Jaurès ( Devant le CTM),93430,Villetaneuse
+plainecommune_1601,Plaine Commune: Point de collecte verre,48.9590878,2.36470074,75 Rue Jules Vallès,93380,Pierrefitte-sur-Seine
+plainecommune_1602,Plaine Commune: Point de collecte verre,48.95305576,2.3743853,4 Rue Guillaume Apollinaire,93240,Stains
+plainecommune_1603,Plaine Commune: Point de collecte verre,48.92724,2.3961889999999997,27 Rue Villot ,93120,La Courneuve
+plainecommune_1604,Plaine Commune: Point de collecte verre,48.927462,2.3756,22 Rue de Genève,93120,La Courneuve
+plainecommune_1924,Plaine Commune: Point de collecte verre,48.96535272,2.3750953900000003,30 rue Françis Auffray (Parking),93240,Stains
+plainecommune_2241,Plaine Commune: Point de collecte verre,48.9660392,2.36350813,45 boulevard mermoz,93380,Pierrefitte-sur-Seine
+plainecommune_2561,Plaine Commune: Point de collecte verre,48.96726436,2.38550613,65 RUE DE L’AVENIR,93240,Stains
+plainecommune_3521,Plaine Commune: Point de collecte verre,48.92612939,2.35726559,Avenue du président Wilson,93200,Saint-Denis
+plainecommune_4485,Plaine Commune: Point de collecte verre,48.92525417,2.33404697,Quai du Châtelier- SUD passerelle,93450,L'Île-Saint-Denis
+plainecommune_4807,Plaine Commune: Point de collecte verre,48.92399055,2.33287419,Quai du Châtelier,93450,L'Île-Saint-Denis
+plainecommune_4815,Plaine Commune: Point de collecte verre,48.92514979,2.333067,allée du Printemps,93450,L'Île-Saint-Denis
+plainecommune_5139,Plaine Commune: Point de collecte verre,48.92347949,2.33146252,allée du Printemps,93450,L'Île-Saint-Denis
+plainecommune_5140,Plaine Commune: Point de collecte verre,48.92383679,2.33180337,allée du Printemps,93450,L'Île-Saint-Denis
