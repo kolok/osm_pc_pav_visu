@@ -14,11 +14,11 @@ Cette comparaison permet d'identifier les écarts entre les bases de données et
 
 ## Sources de données
 
-| Source | Description | Fichier | Points |
-|--------|-------------|---------|--------|
-| **Plaine Commune** | Open data de l'établissement public territorial | `2025-02-18-200057867-points-apport-volontaire-verre-plainecommune.csv` | ~638 |
-| **OpenStreetMap** | Données collaboratives extraites via Overpass Turbo | `osm_pav_verre.csv` | ~30 |
-| **CITEO** | Base nationale "Que Faire de Mes Objets et Déchets" | `pav_verre_93.csv` | ~13 |
+| Source | Description | Fichier | URL | Points |
+|--------|-------------|---------|-----|--------|
+| **Plaine Commune** | Open data de l'établissement public territorial | `2025-02-18-200057867-points-apport-volontaire-verre-plainecommune.csv` | https://explore.data.gouv.fr/fr/datasets/65b237f21850d941e2ebcccc/#/resources/3f100f9c-f896-4f7a-a57a-5635d3943613 | ~638 |
+| **OpenStreetMap** | Données collaboratives extraites via Overpass Turbo | `osm_pav_verre.csv` | https://overpass-turbo.eu/ |  ~30 |
+| **QFDMOD** | Base nationale "Que Faire de Mes Objets et Déchets" | `pav_verre_93.csv` | https://quefairedemesdechets.fr/ | ~13 |
 
 ## Fonctionnalités
 
