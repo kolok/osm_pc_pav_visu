@@ -36,7 +36,8 @@ export function GlassPointsMap({
 }: GlassPointsMapProps) {
   const mapContainer = useRef<HTMLDivElement>(null);
   const map = useRef<maplibregl.Map | null>(null);
-  const pointsAdded = useRef(false);
+  const mapLoaded = useRef(false);
+  const interactionsSetup = useRef<Set<string>>(new Set());
 
   // Initialiser la carte
   useEffect(() => {
@@ -51,139 +52,112 @@ export function GlassPointsMap({
 
     map.current.addControl(new maplibregl.NavigationControl(), 'top-right');
 
+    map.current.on('load', () => {
+      mapLoaded.current = true;
+    });
+
     return () => {
       map.current?.remove();
       map.current = null;
-      pointsAdded.current = false;
+      mapLoaded.current = false;
+      interactionsSetup.current.clear();
     };
   }, [config]);
 
-  // Ajouter les points à la carte
+  // Fonction pour ajouter/mettre à jour une couche
+  const updateLayer = (
+    sourceId: string,
+    layerId: string,
+    points: GlassPoint[],
+    color: string,
+    strokeColor: string
+  ) => {
+    if (!map.current || !mapLoaded.current) return;
+
+    const source = map.current.getSource(sourceId) as maplibregl.GeoJSONSource;
+    const geojson = pointsToGeoJSON(points);
+
+    if (source) {
+      // Mettre à jour les données existantes
+      source.setData(geojson);
+    } else if (points.length > 0) {
+      // Créer la source et la couche
+      map.current.addSource(sourceId, {
+        type: 'geojson',
+        data: geojson
+      });
+      map.current.addLayer({
+        id: layerId,
+        type: 'circle',
+        source: sourceId,
+        paint: {
+          'circle-radius': 8,
+          'circle-color': color,
+          'circle-stroke-width': 2,
+          'circle-stroke-color': strokeColor
+        }
+      });
+
+      // Configurer les interactions une seule fois
+      if (!interactionsSetup.current.has(layerId)) {
+        setupMapInteractions(layerId);
+        interactionsSetup.current.add(layerId);
+      }
+    }
+  };
+
+  const setupMapInteractions = (layerId: string) => {
+    if (!map.current) return;
+
+    // Curseur pointer au survol
+    map.current.on('mouseenter', layerId, () => {
+      map.current!.getCanvas().style.cursor = 'pointer';
+    });
+
+    map.current.on('mouseleave', layerId, () => {
+      map.current!.getCanvas().style.cursor = '';
+    });
+
+    // Popup au clic
+    map.current.on('click', layerId, (e) => {
+      if (!e.features || e.features.length === 0) return;
+
+      const feature = e.features[0];
+      const coordinates = (feature.geometry as GeoJSON.Point).coordinates.slice() as [number, number];
+      const props = feature.properties;
+
+      new maplibregl.Popup()
+        .setLngLat(coordinates)
+        .setHTML(createPopupContent(props))
+        .addTo(map.current!);
+    });
+  };
+
+  // Ajouter/mettre à jour les points à la carte
   useEffect(() => {
-    const totalPoints = pointsPlaineCommune.length + pointsPav93.length + pointsOsm.length;
-    if (!map.current || totalPoints === 0) return;
+    if (!map.current) return;
 
-    const addPointsToMap = () => {
-      if (!map.current || pointsAdded.current) return;
-
-      // Supprimer les couches/sources existantes si présentes
-      [LAYER_PLAINE_COMMUNE, LAYER_PAV93, LAYER_OSM].forEach(layerId => {
-        if (map.current!.getLayer(layerId)) {
-          map.current!.removeLayer(layerId);
-        }
-      });
-      [SOURCE_PLAINE_COMMUNE, SOURCE_PAV93, SOURCE_OSM].forEach(sourceId => {
-        if (map.current!.getSource(sourceId)) {
-          map.current!.removeSource(sourceId);
-        }
-      });
-
-      // Ajouter les points Plaine Commune (vert)
-      if (pointsPlaineCommune.length > 0) {
-        const geojsonPlaineCommune = pointsToGeoJSON(pointsPlaineCommune);
-        map.current!.addSource(SOURCE_PLAINE_COMMUNE, {
-          type: 'geojson',
-          data: geojsonPlaineCommune
-        });
-        map.current!.addLayer({
-          id: LAYER_PLAINE_COMMUNE,
-          type: 'circle',
-          source: SOURCE_PLAINE_COMMUNE,
-          paint: {
-            'circle-radius': 8,
-            'circle-color': '#22c55e',
-            'circle-stroke-width': 2,
-            'circle-stroke-color': '#166534'
-          }
-        });
-      }
-
-      // Ajouter les points PAV 93 (orange)
-      if (pointsPav93.length > 0) {
-        const geojsonPav93 = pointsToGeoJSON(pointsPav93);
-        map.current!.addSource(SOURCE_PAV93, {
-          type: 'geojson',
-          data: geojsonPav93
-        });
-        map.current!.addLayer({
-          id: LAYER_PAV93,
-          type: 'circle',
-          source: SOURCE_PAV93,
-          paint: {
-            'circle-radius': 8,
-            'circle-color': '#f97316',
-            'circle-stroke-width': 2,
-            'circle-stroke-color': '#c2410c'
-          }
-        });
-      }
-
-      // Ajouter les points OSM (bleu)
-      if (pointsOsm.length > 0) {
-        const geojsonOsm = pointsToGeoJSON(pointsOsm);
-        map.current!.addSource(SOURCE_OSM, {
-          type: 'geojson',
-          data: geojsonOsm
-        });
-        map.current!.addLayer({
-          id: LAYER_OSM,
-          type: 'circle',
-          source: SOURCE_OSM,
-          paint: {
-            'circle-radius': 8,
-            'circle-color': '#3b82f6',
-            'circle-stroke-width': 2,
-            'circle-stroke-color': '#1d4ed8'
-          }
-        });
-      }
-
-      // Ajouter les interactions pour les trois couches
-      setupMapInteractions(LAYER_PLAINE_COMMUNE);
-      setupMapInteractions(LAYER_PAV93);
-      setupMapInteractions(LAYER_OSM);
+    const addAllLayers = () => {
+      updateLayer(SOURCE_PLAINE_COMMUNE, LAYER_PLAINE_COMMUNE, pointsPlaineCommune, '#22c55e', '#166534');
+      updateLayer(SOURCE_PAV93, LAYER_PAV93, pointsPav93, '#f97316', '#c2410c');
+      updateLayer(SOURCE_OSM, LAYER_OSM, pointsOsm, '#3b82f6', '#1d4ed8');
       
-      pointsAdded.current = true;
-      onMapReady?.();
+      const totalPoints = pointsPlaineCommune.length + pointsPav93.length + pointsOsm.length;
+      if (totalPoints > 0) {
+        onMapReady?.();
+      }
     };
 
-    const setupMapInteractions = (layerId: string) => {
-      if (!map.current) return;
-
-      // Curseur pointer au survol
-      map.current.on('mouseenter', layerId, () => {
-        map.current!.getCanvas().style.cursor = 'pointer';
-      });
-
-      map.current.on('mouseleave', layerId, () => {
-        map.current!.getCanvas().style.cursor = '';
-      });
-
-      // Popup au clic
-      map.current.on('click', layerId, (e) => {
-        if (!e.features || e.features.length === 0) return;
-
-        const feature = e.features[0];
-        const coordinates = (feature.geometry as GeoJSON.Point).coordinates.slice() as [number, number];
-        const props = feature.properties;
-
-        new maplibregl.Popup()
-          .setLngLat(coordinates)
-          .setHTML(createPopupContent(props))
-          .addTo(map.current!);
-      });
-    };
-
-    if (map.current.isStyleLoaded()) {
-      addPointsToMap();
+    if (mapLoaded.current) {
+      addAllLayers();
     } else {
-      map.current.on('load', addPointsToMap);
+      map.current.on('load', addAllLayers);
     }
   }, [pointsPlaineCommune, pointsPav93, pointsOsm, onMapReady]);
 
   // Gérer la visibilité des couches
   useEffect(() => {
-    if (!map.current || !pointsAdded.current) return;
+    if (!map.current || !mapLoaded.current) return;
 
     if (map.current.getLayer(LAYER_PLAINE_COMMUNE)) {
       map.current.setLayoutProperty(

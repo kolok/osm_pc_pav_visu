@@ -1,0 +1,13 @@
+[out:json];
+area["name"="Plaine Commune"]->.searchArea;
+(
+  node["amenity"="recycling"]["recycling:glass"="bottles"](area.searchArea);
+  node["amenity"="recycling"]["recycling:glass"="yes"](area.searchArea);
+  way["amenity"="recycling"]["recycling:glass"="bottles"](area.searchArea);
+  way["amenity"="recycling"]["recycling:glass"="yes"](area.searchArea);
+  relation["amenity"="recycling"]["recycling:glass"="bottles"](area.searchArea);
+  relation["amenity"="recycling"]["recycling:glass"="yes"](area.searchArea);
+);
+out body;
+>;
+out skel qt;

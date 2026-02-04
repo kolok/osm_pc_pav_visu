@@ -48,21 +48,24 @@ function App() {
       color: '#22c55e',
       borderColor: '#166534',
       label: 'Plaine Commune',
-      visible: visibility.plaineCommune
+      visible: visibility.plaineCommune,
+      count: pointsPlaineCommune.length
     },
     {
       id: 'pav93',
       color: '#f97316',
       borderColor: '#c2410c',
       label: 'PAV Verre 93 (CITEO)',
-      visible: visibility.pav93
+      visible: visibility.pav93,
+      count: pointsPav93.length
     },
     {
       id: 'osm',
       color: '#3b82f6',
       borderColor: '#1d4ed8',
       label: 'OpenStreetMap',
-      visible: visibility.osm
+      visible: visibility.osm,
+      count: pointsOsm.length
     }
   ];
 
@@ -74,14 +77,6 @@ function App() {
         pointsOsm={pointsOsm}
         visibility={visibility}
         onMapReady={() => setMapReady(true)}
-      />
-
-      <Header
-        title="Points d'apport volontaire - Verre"
-        subtitle="Plaine Commune - Seine-Saint-Denis"
-        pointCount={totalPoints}
-        loading={isLoading}
-        error={!!error}
       />
 
       {isLoading && (

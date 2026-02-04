@@ -4,6 +4,7 @@ interface LegendItem {
   borderColor: string;
   label: string;
   visible: boolean;
+  count?: number;
 }
 
 interface LegendProps {
@@ -49,7 +50,14 @@ export function Legend({ items, onToggle }: LegendProps) {
             background: item.color,
             border: `2px solid ${item.borderColor}`
           }} />
-          <span>{item.label}</span>
+          <span>
+            {item.label}
+            {item.count !== undefined && (
+              <span style={{ color: '#6b7280', marginLeft: 4 }}>
+                ({item.count})
+              </span>
+            )}
+          </span>
         </label>
       ))}
     </div>
